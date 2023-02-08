@@ -1,0 +1,10 @@
+command
+takeoff
+flip f
+up 40
+right 40 
+left 40 
+flip b 
+poly 4
+poly 6
+land
