@@ -1,8 +1,0 @@
-scan 1
-1=0TQZK5DED02KHL
-1>takeoff
-mon
-mdirection 2
-go(100,100,100,60,m8)
-sync 1
-1>land

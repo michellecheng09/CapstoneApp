@@ -1,13 +1,12 @@
 scan 3
-1=0TQZK7NED02VMT
-2=0TQZK5DED02KHL
-3=0TQZK7JED02TVJ
+0=0TQZK7NED02VMT
+1=0TQZK5DED02KHL
+2=0TQZK7JED02TVJ
+correct_ip
 1>takeoff
 2>takeoff
 3>takeoff
 delay 5
-1>poly 3
-delay 2
-2>horizontal
-delay 2
+horizontal
+delay 5
 *>land

@@ -147,9 +147,9 @@ class Swarm(object):
         self.tellos = []
         self.pools = []
         self.sn2ip = {
-            '0TQZK5DED02KHL': '192.168.0.104',
-            '0TQZK7NED02VMT': '192.168.0.105',
-            '0TQZK7JED02TVJ': '192.168.0.103',
+            '0TQZK5DED02KHL': '192.168.0.101',
+            '0TQZK7NED02VMT': '192.168.0.100',
+            '0TQZK7JED02TVJ': '192.168.0.102',
         }
         self.id2sn = {
             1: '0TQZK5DED02KHL',
@@ -157,9 +157,9 @@ class Swarm(object):
             2: '0TQZK7JED02TVJ',
         }
         self.ip2id = {
-            '192.168.0.104': 1,
-            '192.168.0.105': 0,
-            '192.168.0.103': 2,
+            '192.168.0.101': 1,
+            '192.168.0.100': 0,
+            '192.168.0.102': 2,
         }
 
     def start(self):
@@ -445,7 +445,7 @@ class Swarm(object):
         for ip in tello_ips:
             self.manager.send_command('land', ip)
 
-    def _handle_horizontal(self):
+    def _handle_horizontal(self,command):
         """
         Handles Horizontal Formation
         """
@@ -453,30 +453,36 @@ class Swarm(object):
         tello_ips = self.manager.tello_ip_list
         for ip in tello_ips:
             if num==0:
+                print(f'{str(num)}{str(ip)}')
                 x1=self.home_x-50
                 y1=self.home_y+50
                 z1=self.home_z 
-                if(self.ENU==0):
+                print(f'{x1},{y1},{z1}')
+                if(self.ENU==1):
                     self.moveNED(x1,y1,z1,ip)
                 else:
                     self.moveENU(x1,y1,z1,ip)
             elif num==1:
+                print(f'{str(num)}{str(ip)}')
                 x2=self.home_x
                 y2=self.home_y
                 z2=self.home_z
-                if(self.ENU==0):
+                print(f'{x2}{y2}{z2}')
+                if(self.ENU==1):
                     self.moveNED(x2,y2,z2,ip)
                 else:
                     self.moveENU(x2,y2,z2,ip)
             elif num==2:
+                print(f'{str(num)}{str(ip)}')
                 x3=self.home_x+50
                 y3=self.home_y-50
                 z3=self.home_z
-                if(self.ENU==0):
+                print(f'{x3}{y3}{z3}')
+                if(self.ENU==1):
                     self.moveNED(x3,y3,z3,ip)
                 else:
                     self.moveENU(x3,y3,z3,ip)
-        num=num+1
+            num=num+1
 
     def _handle_wave(self,command):
         """
@@ -506,10 +512,8 @@ class Swarm(object):
         for ip in tello_ips:
             for s in range(sides):
                 command= "forward 25" #to update 
-                print(command)
                 self.manager.send_command(command,ip)
                 command2= ip+(f">ccw {(round(360/sides))}")
-                print(command2)
                 self.manager.send_command(command2,ip)
             pass
         
@@ -518,52 +522,40 @@ class Swarm(object):
         y2=y*-1
         z2=y*-1
 
-        if x>0:
-            self.manager.send_command("right {x}",ip)
-            self.manager.send_command("delay 2")
-        elif x<0:
-            self.manager.send_command("left {x2}",ip)
-            self.manager.send_command("delay 2")
-
         if y>0:
-            self.manager.send_commend("forward {y}",ip)  
-            self.manager.send_command("delay 2")             
+            self.manager.send_command("forward "+str(y),ip)             
         elif y<0:
-            self.manager.send_command("back {y2}",ip)
-            self.manager.send_command("delay 2")
+            self.manager.send_command("back "+str(y2),ip)
+
+        if x>0:
+            self.manager.send_command("right "+str(x),ip)
+        elif x<0:
+            self.manager.send_command("left "+str(x2),ip)
 
         if z>0:
-            self.manager.send_command("up {z}",ip)
-            self.manager.send_command("delay 2")
+            self.manager.send_command("up "+str(z),ip)
         elif z<0:
-            self.manager.send_command("down {z2}",ip)
-            self.manager.send_command("delay 2")
+            self.manager.send_command("down "+str(z2),ip)
 
     def moveNED(self,x,y,z,ip):
         y2=y*-1
         x2=x*-1
         z2=x*-1
 
-        if y>0:
-            self.manager.send_command("right {y}",ip)
-            self.manager.send_command("delay 2")
-        elif y<0:
-            self.manager.send_command("left {y2}",ip)
-            self.manager.send_command("delay 2")
-        
         if x>0:
-            self.manager.send_command("forward {x}",ip)
-            self.manager.send_command("delay 2")
+            self.manager.send_command("forward "+str(x),ip)
         elif x<0:
-            self.manager.send_command("back {x2}",ip)
-            self.manager.send_command("delay 2")
+            self.manager.send_command("back "+str(x2),ip)
 
+        if y>0:
+            self.manager.send_command("right "+str(y),ip)
+        elif y<0:
+            self.manager.send_command("left "+str(y2),ip)
+    
         if z>0:
-            self.manager.send_command("down {z}",ip)
-            self.manager.send_command("delay 2")
-        elif z<0:
-             self.manager.send_command("up {z2}",ip)
-             self.manager.send_command("delay 2")
+            self.manager.send_command("down "+str(z),ip)
+        elif z<0:                                                                                                              
+             self.manager.send_command("up "+str(z2),ip)
 
     
         
