@@ -1,0 +1,30 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2023-03-17 15:36:35.142964, end_time=2023-03-17 15:36:35.175861, duration=0.032897
+id=1, command=connect, response=unknown command: connect, start_time=2023-03-17 15:36:40.454616, end_time=2023-03-17 15:36:40.507116, duration=0.0525
+id=2, command=mon, response=None, start_time=2023-03-17 15:36:40.651492, end_time=None, duration=None
+id=3, command=mdirection 2, response=ok, start_time=2023-03-17 15:37:00.767408, end_time=2023-03-17 15:37:00.806202, duration=0.038794
+id=4, command=takeoff, response=ok, start_time=2023-03-17 15:37:00.841086, end_time=2023-03-17 15:37:06.413446, duration=5.57236
+id=5, command=go 0 100 0 20 m1, response=error Motor stop, start_time=2023-03-17 15:37:06.469295, end_time=2023-03-17 15:37:08.977876, duration=2.508581
+id=6, command=sleep 5, response=unknown command: sleep, start_time=2023-03-17 15:37:09.023417, end_time=2023-03-17 15:37:09.111050, duration=0.087633
+id=7, command=land, response=ok, start_time=2023-03-17 15:37:09.174666, end_time=2023-03-17 15:37:09.819403, duration=0.644737
+id=8, command=land, response=error, start_time=2023-03-17 15:37:13.082757, end_time=2023-03-17 15:37:13.122081, duration=0.039324
+------
+Drone: 2
+id=0, command=command, response=ok, start_time=2023-03-17 15:36:35.142964, end_time=2023-03-17 15:36:35.179316, duration=0.036352
+id=1, command=connect, response=ok, start_time=2023-03-17 15:36:40.560351, end_time=2023-03-17 15:37:00.584790, duration=20.024439
+id=2, command=mon, response=error, start_time=2023-03-17 15:37:00.629628, end_time=2023-03-17 15:37:13.233435, duration=12.603807
+id=3, command=mdirection 2, response=None, start_time=2023-03-17 15:37:13.302255, end_time=None, duration=None
+id=4, command=land, response=ok, start_time=2023-03-17 15:37:13.351353, end_time=2023-03-17 15:37:13.741831, duration=0.390478
+id=5, command=takeoff, response=None, start_time=2023-03-17 15:37:13.827273, end_time=None, duration=None
+------
+Drone: 3
+id=0, command=command, response=ok, start_time=2023-03-17 15:36:35.142964, end_time=2023-03-17 15:36:35.188138, duration=0.045174
+id=1, command=connect, response=unknown command: connect, start_time=2023-03-17 15:36:40.476176, end_time=2023-03-17 15:36:40.523063, duration=0.046887
+id=2, command=mon, response=None, start_time=2023-03-17 15:36:40.877567, end_time=None, duration=None
+id=3, command=mdirection 2, response=ok, start_time=2023-03-17 15:37:00.933471, end_time=2023-03-17 15:37:00.975357, duration=0.041886
+id=4, command=takeoff, response=ok, start_time=2023-03-17 15:37:01.097645, end_time=2023-03-17 15:37:05.770873, duration=4.673228
+id=5, command=go 0 50 0 20 m1, response=error Motor stop, start_time=2023-03-17 15:37:05.812385, end_time=2023-03-17 15:37:09.111050, duration=3.298665
+id=6, command=sleep 5, response=error, start_time=2023-03-17 15:37:09.248684, end_time=2023-03-17 15:37:13.767747, duration=4.519063
+id=7, command=land, response=error, start_time=2023-03-17 15:37:13.776735, end_time=2023-03-17 15:37:13.827273, duration=0.050538
+id=8, command=land, response=None, start_time=2023-03-17 15:37:13.884554, end_time=None, duration=None

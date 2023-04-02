@@ -1,0 +1,26 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2023-03-17 14:41:37.531168, end_time=2023-03-17 14:41:37.775143, duration=0.243975
+id=1, command=mon, response=ok, start_time=2023-03-17 14:41:53.264187, end_time=2023-03-17 14:43:02.668268, duration=69.404081
+id=2, command=mdirection 2, response=error, start_time=2023-03-17 14:43:02.732015, end_time=2023-03-17 14:43:18.581910, duration=15.849895
+id=3, command=land, response=None, start_time=2023-03-17 14:43:18.581910, end_time=None, duration=None
+id=4, command=takeoff, response=ok, start_time=2023-03-17 14:43:18.722758, end_time=2023-03-17 14:43:22.199650, duration=3.476892
+id=5, command=go(100,0,0,20,m8), response=None, start_time=2023-03-17 14:43:22.311752, end_time=None, duration=None
+------
+Drone: 2
+id=0, command=command, response=ok, start_time=2023-03-17 14:41:37.531168, end_time=2023-03-17 14:41:37.775143, duration=0.243975
+id=1, command=mon, response=error, start_time=2023-03-17 14:41:53.136225, end_time=2023-03-17 14:41:53.583139, duration=0.446914
+id=2, command=mdirection 2, response=error, start_time=2023-03-17 14:41:53.805180, end_time=2023-03-17 14:41:54.550148, duration=0.744968
+id=3, command=takeoff, response=error, start_time=2023-03-17 14:41:54.692188, end_time=2023-03-17 14:41:54.708191, duration=0.016003
+id=4, command=go(100,0,0,20,m3), response=unknown command: go(100,0,0,20,m3), start_time=2023-03-17 14:41:54.755249, end_time=2023-03-17 14:41:54.803261, duration=0.048012
+id=5, command=land, response=error, start_time=2023-03-17 14:41:54.943504, end_time=2023-03-17 14:41:55.070263, duration=0.126759
+id=6, command=land, response=ok, start_time=2023-03-17 14:43:22.374641, end_time=2023-03-17 14:43:22.595621, duration=0.22098
+------
+Drone: 3
+id=0, command=command, response=None, start_time=2023-03-17 14:41:37.531526, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-03-17 14:41:42.544162, end_time=None, duration=None
+id=2, command=command, response=ok, start_time=2023-03-17 14:41:47.563116, end_time=2023-03-17 14:41:49.807816, duration=2.2447
+id=3, command=mon, response=None, start_time=2023-03-17 14:41:53.615177, end_time=None, duration=None
+id=4, command=mdirection 2, response=None, start_time=2023-03-17 14:43:02.778936, end_time=None, duration=None
+id=5, command=land, response=None, start_time=2023-03-17 14:43:22.751318, end_time=None, duration=None
+id=6, command=takeoff, response=None, start_time=2023-03-17 14:43:22.972456, end_time=None, duration=None

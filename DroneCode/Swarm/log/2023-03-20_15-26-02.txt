@@ -1,0 +1,37 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2023-03-20 15:23:53.461235, end_time=2023-03-20 15:23:53.719928, duration=0.258693
+id=1, command=connect, response=ok, start_time=2023-03-20 15:23:59.000175, end_time=2023-03-20 15:24:19.084146, duration=20.083971
+id=2, command=mon, response=None, start_time=2023-03-20 15:24:19.118098, end_time=None, duration=None
+id=3, command=mdirection 2, response=ok, start_time=2023-03-20 15:24:39.204089, end_time=2023-03-20 15:24:39.219420, duration=0.015331
+id=4, command=takeoff, response=ok, start_time=2023-03-20 15:24:39.262406, end_time=2023-03-20 15:24:47.987967, duration=8.725561
+id=5, command=sleep 2, response=None, start_time=2023-03-20 15:24:48.066862, end_time=None, duration=None
+id=6, command=go 0 -10 10 20 m1, response=out of range, start_time=2023-03-20 15:25:08.168085, end_time=2023-03-20 15:25:08.331772, duration=0.163687
+id=7, command=sleep 5, response=unknown command: sleep, start_time=2023-03-20 15:25:08.391072, end_time=2023-03-20 15:25:08.402061, duration=0.010989
+id=8, command=land, response=error, start_time=2023-03-20 15:25:08.536683, end_time=2023-03-20 15:25:08.591724, duration=0.055041
+id=9, command=land, response=ok, start_time=2023-03-20 15:26:01.534176, end_time=2023-03-20 15:26:02.075297, duration=0.541121
+------
+Drone: 2
+id=0, command=command, response=ok, start_time=2023-03-20 15:23:53.461235, end_time=2023-03-20 15:23:53.735828, duration=0.274593
+id=1, command=connect, response=ok, start_time=2023-03-20 15:23:58.850531, end_time=2023-03-20 15:24:18.892159, duration=20.041628
+id=2, command=mon, response=ok, start_time=2023-03-20 15:24:18.957612, end_time=2023-03-20 15:24:39.037989, duration=20.080377
+id=3, command=mdirection 2, response=None, start_time=2023-03-20 15:24:39.119202, end_time=None, duration=None
+id=4, command=takeoff, response=ok, start_time=2023-03-20 15:24:59.274575, end_time=2023-03-20 15:25:08.073495, duration=8.79892
+id=5, command=sleep 2, response=unknown command: sleep, start_time=2023-03-20 15:25:08.112051, end_time=2023-03-20 15:25:08.252755, duration=0.140704
+id=6, command=go 0 0 30 20 m1, response=ok, start_time=2023-03-20 15:25:08.323180, end_time=2023-03-20 15:25:11.316082, duration=2.992902
+id=7, command=right 40, response=ok, start_time=2023-03-20 15:25:11.423976, end_time=2023-03-20 15:25:13.162135, duration=1.738159
+id=8, command=sleep 5, response=unknown command: sleep, start_time=2023-03-20 15:25:13.195531, end_time=2023-03-20 15:25:13.266874, duration=0.071343
+id=9, command=land, response=ok, start_time=2023-03-20 15:25:13.367134, end_time=2023-03-20 15:25:14.982061, duration=1.614927
+id=10, command=land, response=ok, start_time=2023-03-20 15:26:02.371115, end_time=2023-03-20 15:26:02.709221, duration=0.338106
+------
+Drone: 3
+id=0, command=command, response=ok, start_time=2023-03-20 15:23:53.461235, end_time=2023-03-20 15:23:53.741573, duration=0.280338
+id=1, command=connect, response=ok, start_time=2023-03-20 15:23:58.935086, end_time=2023-03-20 15:24:19.054155, duration=20.119069
+id=2, command=mon, response=ok, start_time=2023-03-20 15:24:19.074105, end_time=2023-03-20 15:24:39.138773, duration=20.064668
+id=3, command=mdirection 2, response=None, start_time=2023-03-20 15:24:39.139104, end_time=None, duration=None
+id=4, command=takeoff, response=ok, start_time=2023-03-20 15:24:59.315552, end_time=2023-03-20 15:25:05.653409, duration=6.337857
+id=5, command=sleep 2, response=None, start_time=2023-03-20 15:25:05.734498, end_time=None, duration=None
+id=6, command=go 0 10 50 20 m1, response=error Motor stop, start_time=2023-03-20 15:25:25.963292, end_time=2023-03-20 15:25:26.100535, duration=0.137243
+id=7, command=left 40, response=unknown command: sleep, start_time=2023-03-20 15:25:26.218484, end_time=2023-03-20 15:25:46.303934, duration=20.08545
+id=8, command=sleep 5, response=None, start_time=2023-03-20 15:25:46.352683, end_time=None, duration=None
+id=9, command=land, response=error, start_time=2023-03-20 15:26:02.769985, end_time=2023-03-20 15:26:02.795932, duration=0.025947

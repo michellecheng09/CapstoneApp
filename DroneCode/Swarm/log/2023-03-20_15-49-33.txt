@@ -1,0 +1,37 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2023-03-20 15:43:39.870708, end_time=2023-03-20 15:43:40.102623, duration=0.231915
+id=1, command=connect, response=None, start_time=2023-03-20 15:44:25.693835, end_time=None, duration=None
+id=2, command=mon, response=None, start_time=2023-03-20 15:44:45.790119, end_time=None, duration=None
+id=3, command=mdirection 2, response=None, start_time=2023-03-20 15:45:05.915919, end_time=None, duration=None
+id=4, command=sleep 5, response=None, start_time=2023-03-20 15:45:26.046956, end_time=None, duration=None
+id=5, command=land, response=None, start_time=2023-03-20 15:45:46.164443, end_time=None, duration=None
+id=6, command=land, response=None, start_time=2023-03-20 15:48:53.040270, end_time=None, duration=None
+------
+Drone: 2
+id=0, command=command, response=ok, start_time=2023-03-20 15:43:39.870708, end_time=2023-03-20 15:43:40.113657, duration=0.242949
+id=1, command=connect, response=ok, start_time=2023-03-20 15:44:25.727482, end_time=2023-03-20 15:44:45.819919, duration=20.092437
+id=2, command=mon, response=None, start_time=2023-03-20 15:44:45.880852, end_time=None, duration=None
+id=3, command=mdirection 2, response=ok, start_time=2023-03-20 15:45:05.964022, end_time=2023-03-20 15:45:05.982540, duration=0.018518
+id=4, command=takeoff, response=ok, start_time=2023-03-20 15:45:06.032887, end_time=2023-03-20 15:45:11.611377, duration=5.57849
+id=5, command=poly 3, response=unknown command: poly, start_time=2023-03-20 15:45:11.764006, end_time=2023-03-20 15:45:11.850709, duration=0.086703
+id=6, command=sleep 5, response=error, start_time=2023-03-20 15:45:11.964867, end_time=2023-03-20 15:45:32.135753, duration=20.170886
+id=7, command=land, response=ok, start_time=2023-03-20 15:45:32.185567, end_time=2023-03-20 15:45:32.746114, duration=0.560547
+id=8, command=land, response=error, start_time=2023-03-20 15:49:13.097626, end_time=2023-03-20 15:49:13.113343, duration=0.015717
+------
+Drone: 3
+id=0, command=command, response=None, start_time=2023-03-20 15:43:39.870708, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-03-20 15:43:44.905936, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-03-20 15:43:49.924474, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-03-20 15:43:54.947424, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-03-20 15:43:59.988335, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2023-03-20 15:44:05.007544, end_time=None, duration=None
+id=6, command=command, response=None, start_time=2023-03-20 15:44:10.030430, end_time=None, duration=None
+id=7, command=command, response=None, start_time=2023-03-20 15:44:15.048572, end_time=None, duration=None
+id=8, command=command, response=ok, start_time=2023-03-20 15:44:20.073699, end_time=2023-03-20 15:44:20.346139, duration=0.27244
+id=9, command=connect, response=ok, start_time=2023-03-20 15:44:25.656096, end_time=2023-03-20 15:44:45.690837, duration=20.034741
+id=10, command=mon, response=ok, start_time=2023-03-20 15:44:45.741786, end_time=2023-03-20 15:45:05.830059, duration=20.088273
+id=11, command=mdirection 2, response=unknown command: sleep, start_time=2023-03-20 15:45:05.855471, end_time=2023-03-20 15:45:25.929593, duration=20.074122
+id=12, command=sleep 5, response=error, start_time=2023-03-20 15:45:25.964472, end_time=2023-03-20 15:45:46.081643, duration=20.117171
+id=13, command=land, response=ok, start_time=2023-03-20 15:45:46.132029, end_time=2023-03-20 15:45:46.708368, duration=0.576339
+id=14, command=land, response=None, start_time=2023-03-20 15:49:13.180993, end_time=None, duration=None

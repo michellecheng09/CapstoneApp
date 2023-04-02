@@ -1,0 +1,29 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2023-03-17 15:24:33.824551, end_time=2023-03-17 15:24:34.103141, duration=0.27859
+id=1, command=mon, response=None, start_time=2023-03-17 15:24:49.294298, end_time=None, duration=None
+id=2, command=streamon, response=ok, start_time=2023-03-17 15:25:09.417250, end_time=2023-03-17 15:25:09.439130, duration=0.02188
+id=3, command=mdirection 2, response=None, start_time=2023-03-17 15:25:09.511083, end_time=None, duration=None
+id=4, command=takeoff, response=ok, start_time=2023-03-17 15:25:29.701584, end_time=2023-03-17 15:25:34.150082, duration=4.448498
+id=5, command=go 100 0 25 m1, response=out of range, start_time=2023-03-17 15:25:34.177080, end_time=2023-03-17 15:25:34.266992, duration=0.089912
+id=6, command=land, response=ok, start_time=2023-03-17 15:25:34.318118, end_time=2023-03-17 15:25:37.993379, duration=3.675261
+------
+Drone: 2
+id=0, command=command, response=ok, start_time=2023-03-17 15:24:33.824551, end_time=2023-03-17 15:24:34.103141, duration=0.27859
+id=1, command=mon, response=ok, start_time=2023-03-17 15:24:49.235648, end_time=2023-03-17 15:25:09.286073, duration=20.050425
+id=2, command=streamon, response=ok, start_time=2023-03-17 15:25:09.286073, end_time=2023-03-17 15:25:29.357537, duration=20.071464
+id=3, command=mdirection 2, response=None, start_time=2023-03-17 15:25:29.458153, end_time=None, duration=None
+id=4, command=takeoff, response=ok, start_time=2023-03-17 15:25:49.600440, end_time=2023-03-17 15:25:54.574756, duration=4.974316
+id=5, command=go 0 0 0 20 m1, response=out of range, start_time=2023-03-17 15:25:54.605927, end_time=2023-03-17 15:25:54.732212, duration=0.126285
+id=6, command=land, response=ok, start_time=2023-03-17 15:25:54.834345, end_time=2023-03-17 15:25:58.434380, duration=3.600035
+------
+Drone: 3
+id=0, command=command, response=None, start_time=2023-03-17 15:24:33.824551, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-03-17 15:24:38.840171, end_time=None, duration=None
+id=2, command=command, response=ok, start_time=2023-03-17 15:24:43.854336, end_time=2023-03-17 15:24:44.092974, duration=0.238638
+id=3, command=mon, response=ok, start_time=2023-03-17 15:24:49.382866, end_time=2023-03-17 15:25:09.408876, duration=20.02601
+id=4, command=streamon, response=ok, start_time=2023-03-17 15:25:09.449724, end_time=2023-03-17 15:25:29.569664, duration=20.11994
+id=5, command=mdirection 2, response=None, start_time=2023-03-17 15:25:29.569664, end_time=None, duration=None
+id=6, command=takeoff, response=ok, start_time=2023-03-17 15:25:49.625512, end_time=2023-03-17 15:25:54.586780, duration=4.961268
+id=7, command=go 0 50 0 25 m1, response=error Run timeout, start_time=2023-03-17 15:25:54.702162, end_time=2023-03-17 15:26:09.800220, duration=15.098058
+id=8, command=land, response=ok, start_time=2023-03-17 15:26:09.903284, end_time=2023-03-17 15:26:12.378795, duration=2.475511

@@ -1,0 +1,19 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2023-03-17 13:39:38.554955, end_time=2023-03-17 13:39:38.669351, duration=0.114396
+------
+Drone: 2
+id=0, command=command, response=ok, start_time=2023-03-17 13:39:38.554955, end_time=2023-03-17 13:39:38.679592, duration=0.124637
+------
+Drone: 3
+id=0, command=command, response=None, start_time=2023-03-17 13:39:38.554598, end_time=None, duration=None
+id=1, command=command, response=ok, start_time=2023-03-17 13:39:43.587786, end_time=2023-03-17 13:39:43.828885, duration=0.241099
+id=2, command=takeoff, response=ok, start_time=2023-03-17 13:39:49.000770, end_time=2023-03-17 13:39:53.948061, duration=4.947291
+id=3, command=up 50, response=ok, start_time=2023-03-17 13:39:54.011844, end_time=2023-03-17 13:39:56.365039, duration=2.353195
+id=4, command=mon, response=None, start_time=2023-03-17 13:39:56.503609, end_time=None, duration=None
+id=5, command=mdirection 2, response=ok, start_time=2023-03-17 13:40:16.549311, end_time=2023-03-17 13:40:16.577242, duration=0.027931
+id=6, command=go 90 0 100 m1, response=out of range, start_time=2023-03-17 13:40:16.619312, end_time=2023-03-17 13:40:16.705690, duration=0.086378
+id=7, command=go 90 0 100 m2, response=None, start_time=2023-03-17 13:40:16.786376, end_time=None, duration=None
+id=8, command=go 90 0 100 m3, response=out of range, start_time=2023-03-17 13:40:36.933990, end_time=2023-03-17 13:40:36.957063, duration=0.023073
+id=9, command=go 90 0 100 m4, response=error, start_time=2023-03-17 13:40:37.031616, end_time=2023-03-17 13:40:57.175571, duration=20.143955
+id=10, command=land, response=ok, start_time=2023-03-17 13:40:57.208448, end_time=2023-03-17 13:40:57.737371, duration=0.528923

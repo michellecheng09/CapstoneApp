@@ -1,7 +1,8 @@
 scan 1
-battery_check 20
-correct_ip
-1=0TQZGANED0021X
+1=0TQZK5DED02KHL
 1>takeoff
+mon
+mdirection 2
+go(100,100,100,60,m8)
 sync 1
 1>land

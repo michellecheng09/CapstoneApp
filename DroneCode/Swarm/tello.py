@@ -78,7 +78,8 @@ class TelloManager(object):
 
         while len(self.tello_ip_list) < num:
             print(f'[SEARCHING], Trying to find Tellos, number of tries = {iters + 1}')
-
+            print(self.tello_ip_list)
+            
             # delete already found Tello
             for tello_ip in self.tello_ip_list:
                 if tello_ip in possible_ips:
@@ -99,7 +100,6 @@ class TelloManager(object):
 
             iters = iters + 1
             time.sleep(5)
-
         # filter out non-tello addresses in log
         temp = defaultdict(list)
         for ip in self.tello_ip_list:
@@ -113,9 +113,8 @@ class TelloManager(object):
         """
         infos = self.get_subnets()
         ips = SubnetInfo.flatten([info.get_ips() for info in infos])
-        ips = list(filter(lambda ip: ip.startswith('192.168.3.'), ips))
+        ips = list(filter(lambda ip: ip.startswith('192.168.0.'), ips))
         return ips
-
     def get_subnets(self):
         """
         Gets all subnet information.

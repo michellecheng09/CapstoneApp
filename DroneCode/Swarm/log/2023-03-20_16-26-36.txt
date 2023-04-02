@@ -1,0 +1,33 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2023-03-20 16:25:27.562019, end_time=2023-03-20 16:25:27.568829, duration=0.00681
+id=1, command=connect, response=unknown command: connect, start_time=2023-03-20 16:25:33.180405, end_time=2023-03-20 16:25:33.227947, duration=0.047542
+id=2, command=mon, response=None, start_time=2023-03-20 16:25:33.387394, end_time=None, duration=None
+id=3, command=mdirection 2, response=ok, start_time=2023-03-20 16:25:53.435703, end_time=2023-03-20 16:25:53.451704, duration=0.016001
+id=4, command=takeoff, response=ok, start_time=2023-03-20 16:25:53.498924, end_time=2023-03-20 16:25:58.021211, duration=4.522287
+id=5, command=sync 5, response=unknown command: sleep, start_time=2023-03-20 16:25:58.212124, end_time=2023-03-20 16:26:18.320791, duration=20.108667
+id=6, command=sleep 5, response=error, start_time=2023-03-20 16:26:18.462746, end_time=2023-03-20 16:26:34.888433, duration=16.425687
+id=7, command=land, response=None, start_time=2023-03-20 16:26:34.952492, end_time=None, duration=None
+id=8, command=land, response=ok, start_time=2023-03-20 16:26:35.031446, end_time=2023-03-20 16:26:35.512665, duration=0.481219
+------
+Drone: 2
+id=0, command=command, response=ok, start_time=2023-03-20 16:25:27.562019, end_time=2023-03-20 16:25:27.615145, duration=0.053126
+id=1, command=connect, response=ok, start_time=2023-03-20 16:25:33.133421, end_time=2023-03-20 16:25:53.275545, duration=20.142124
+id=2, command=mon, response=None, start_time=2023-03-20 16:25:53.292028, end_time=None, duration=None
+id=3, command=mdirection 2, response=ok, start_time=2023-03-20 16:26:13.432275, end_time=2023-03-20 16:26:13.478477, duration=0.046202
+id=4, command=takeoff, response=ok, start_time=2023-03-20 16:26:13.588332, end_time=2023-03-20 16:26:22.458175, duration=8.869843
+id=5, command=sync 5, response=unknown command: sync, start_time=2023-03-20 16:26:22.490133, end_time=2023-03-20 16:26:22.584136, duration=0.094003
+id=6, command=sleep 5, response=unknown command: sleep, start_time=2023-03-20 16:26:22.632032, end_time=2023-03-20 16:26:22.728007, duration=0.095975
+id=7, command=land, response=ok, start_time=2023-03-20 16:26:22.823221, end_time=2023-03-20 16:26:25.556606, duration=2.733385
+id=8, command=land, response=error, start_time=2023-03-20 16:26:35.681019, end_time=2023-03-20 16:26:35.810992, duration=0.129973
+------
+Drone: 3
+id=0, command=command, response=ok, start_time=2023-03-20 16:25:27.562019, end_time=2023-03-20 16:25:28.589987, duration=1.027968
+id=1, command=connect, response=None, start_time=2023-03-20 16:25:33.106422, end_time=None, duration=None
+id=2, command=mon, response=ok, start_time=2023-03-20 16:25:53.242038, end_time=2023-03-20 16:25:53.260415, duration=0.018377
+id=3, command=mdirection 2, response=ok, start_time=2023-03-20 16:25:53.358895, end_time=2023-03-20 16:25:53.420853, duration=0.061958
+id=4, command=takeoff, response=ok, start_time=2023-03-20 16:25:53.466967, end_time=2023-03-20 16:26:00.205182, duration=6.738215
+id=5, command=sync 5, response=None, start_time=2023-03-20 16:26:00.311180, end_time=None, duration=None
+id=6, command=sleep 5, response=unknown command: sleep, start_time=2023-03-20 16:26:20.552545, end_time=2023-03-20 16:26:20.615541, duration=0.062996
+id=7, command=land, response=ok, start_time=2023-03-20 16:26:20.725619, end_time=2023-03-20 16:26:21.232354, duration=0.506735
+id=8, command=land, response=ok, start_time=2023-03-20 16:26:36.001291, end_time=2023-03-20 16:26:36.524288, duration=0.522997

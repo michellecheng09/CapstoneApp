@@ -1,0 +1,26 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2023-03-20 19:58:06.974373, end_time=2023-03-20 19:58:06.980110, duration=0.005737
+------
+Drone: 2
+id=0, command=command, response=ok, start_time=2023-03-20 19:58:06.974373, end_time=2023-03-20 19:58:07.029758, duration=0.055385
+id=1, command=connect, response=None, start_time=2023-03-20 19:59:18.207317, end_time=None, duration=None
+id=2, command=command, response=ok, start_time=2023-03-20 19:59:38.324422, end_time=2023-03-20 19:59:38.358355, duration=0.033933
+id=3, command=takeoff, response=ok, start_time=2023-03-20 19:59:38.601053, end_time=2023-03-20 19:59:43.517421, duration=4.916368
+id=4, command=land, response=ok, start_time=2023-03-20 19:59:43.620832, end_time=2023-03-20 19:59:46.220681, duration=2.599849
+------
+Drone: 3
+id=0, command=command, response=None, start_time=2023-03-20 19:58:06.974373, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-03-20 19:58:12.027923, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-03-20 19:58:17.081647, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-03-20 19:58:22.109937, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-03-20 19:58:27.157160, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2023-03-20 19:58:32.203595, end_time=None, duration=None
+id=6, command=command, response=None, start_time=2023-03-20 19:58:37.248409, end_time=None, duration=None
+id=7, command=command, response=None, start_time=2023-03-20 19:58:42.297303, end_time=None, duration=None
+id=8, command=command, response=None, start_time=2023-03-20 19:58:47.321269, end_time=None, duration=None
+id=9, command=command, response=None, start_time=2023-03-20 19:58:52.345602, end_time=None, duration=None
+id=10, command=command, response=None, start_time=2023-03-20 19:58:57.396320, end_time=None, duration=None
+id=11, command=command, response=None, start_time=2023-03-20 19:59:02.423493, end_time=None, duration=None
+id=12, command=command, response=None, start_time=2023-03-20 19:59:07.475841, end_time=None, duration=None
+id=13, command=command, response=ok, start_time=2023-03-20 19:59:12.513250, end_time=2023-03-20 19:59:12.922465, duration=0.409215

@@ -1,0 +1,26 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2023-03-17 14:34:58.186605, end_time=2023-03-17 14:34:58.231181, duration=0.044576
+id=1, command=takeoff, response=ok, start_time=2023-03-17 14:35:13.637049, end_time=2023-03-17 14:35:22.512399, duration=8.87535
+id=2, command=mon, response=ok, start_time=2023-03-17 14:35:22.607374, end_time=2023-03-17 14:35:42.720385, duration=20.113011
+id=3, command=mdirection 2, response=unknown command: go(100,0,0,20,m-2), start_time=2023-03-17 14:35:42.736334, end_time=2023-03-17 14:36:02.805932, duration=20.069598
+id=4, command=go(100,0,0,20,m-2), response=None, start_time=2023-03-17 14:36:02.836942, end_time=None, duration=None
+id=5, command=land, response=error, start_time=2023-03-17 14:36:22.933102, end_time=2023-03-17 14:36:22.948683, duration=0.015581
+------
+Drone: 2
+id=0, command=command, response=ok, start_time=2023-03-17 14:34:58.186605, end_time=2023-03-17 14:34:58.234722, duration=0.048117
+id=1, command=takeoff, response=ok, start_time=2023-03-17 14:35:13.731659, end_time=2023-03-17 14:35:18.324788, duration=4.593129
+id=2, command=mon, response=ok, start_time=2023-03-17 14:35:18.433933, end_time=2023-03-17 14:35:18.480190, duration=0.046257
+id=3, command=mdirection 2, response=None, start_time=2023-03-17 14:35:18.589845, end_time=None, duration=None
+id=4, command=go(100,0,0,20,m-2), response=unknown command: go(100,0,0,20,m-2), start_time=2023-03-17 14:35:38.741851, end_time=2023-03-17 14:35:38.804515, duration=0.062664
+id=5, command=land, response=error, start_time=2023-03-17 14:35:38.867589, end_time=2023-03-17 14:35:38.995696, duration=0.128107
+------
+Drone: 3
+id=0, command=command, response=None, start_time=2023-03-17 14:34:58.186605, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-03-17 14:35:03.199647, end_time=None, duration=None
+id=2, command=command, response=ok, start_time=2023-03-17 14:35:08.227220, end_time=2023-03-17 14:35:09.258663, duration=1.031443
+id=3, command=takeoff, response=ok, start_time=2023-03-17 14:35:13.810508, end_time=2023-03-17 14:35:33.852785, duration=20.042277
+id=4, command=mon, response=None, start_time=2023-03-17 14:35:33.883820, end_time=None, duration=None
+id=5, command=mdirection 2, response=ok, start_time=2023-03-17 14:35:54.024702, end_time=2023-03-17 14:35:54.040632, duration=0.01593
+id=6, command=go(100,0,0,20,m-2), response=unknown command: go(100,0,0,20,m-2), start_time=2023-03-17 14:35:54.290555, end_time=2023-03-17 14:35:54.322453, duration=0.031898
+id=7, command=land, response=error, start_time=2023-03-17 14:35:54.401719, end_time=2023-03-17 14:35:54.417783, duration=0.016064

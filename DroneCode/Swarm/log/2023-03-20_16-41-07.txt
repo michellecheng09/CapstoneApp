@@ -1,0 +1,27 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2023-03-20 16:40:11.991059, end_time=2023-03-20 16:40:11.996089, duration=0.00503
+id=1, command=connect, response=unknown command: connect, start_time=2023-03-20 16:40:17.639898, end_time=2023-03-20 16:40:17.690656, duration=0.050758
+id=2, command=takeoff, response=ok, start_time=2023-03-20 16:40:18.041015, end_time=2023-03-20 16:40:23.321240, duration=5.280225
+id=3, command=up 20, response=ok, start_time=2023-03-20 16:40:23.416112, end_time=2023-03-20 16:40:25.168872, duration=1.75276
+id=4, command=back 15, response=unknown command: sleep, start_time=2023-03-20 16:40:25.374868, end_time=2023-03-20 16:40:45.468436, duration=20.093568
+id=5, command=sleep 5, response=None, start_time=2023-03-20 16:40:45.514156, end_time=None, duration=None
+id=6, command=land, response=error, start_time=2023-03-20 16:41:05.608374, end_time=2023-03-20 16:41:05.671650, duration=0.063276
+------
+Drone: 2
+id=0, command=command, response=ok, start_time=2023-03-20 16:40:11.991059, end_time=2023-03-20 16:40:12.028741, duration=0.037682
+id=1, command=connect, response=error, start_time=2023-03-20 16:40:17.819036, end_time=2023-03-20 16:40:18.168511, duration=0.349475
+id=2, command=takeoff, response=error, start_time=2023-03-20 16:40:18.277555, end_time=2023-03-20 16:40:19.231090, duration=0.953535
+id=3, command=up 20, response=error Motor stop, start_time=2023-03-20 16:40:19.278040, end_time=2023-03-20 16:40:19.342048, duration=0.064008
+id=4, command=back 15, response=error, start_time=2023-03-20 16:40:19.564007, end_time=2023-03-20 16:40:20.288185, duration=0.724178
+id=5, command=sleep 5, response=error, start_time=2023-03-20 16:40:20.400189, end_time=2023-03-20 16:40:21.235347, duration=0.835158
+id=6, command=land, response=ok, start_time=2023-03-20 16:40:21.375061, end_time=2023-03-20 16:40:21.875776, duration=0.500715
+------
+Drone: 3
+id=0, command=command, response=ok, start_time=2023-03-20 16:40:11.991649, end_time=2023-03-20 16:40:12.031000, duration=0.039351
+id=1, command=connect, response=None, start_time=2023-03-20 16:40:17.912979, end_time=None, duration=None
+id=2, command=takeoff, response=ok, start_time=2023-03-20 16:40:38.051927, end_time=2023-03-20 16:40:46.712056, duration=8.660129
+id=3, command=up 20, response=ok, start_time=2023-03-20 16:40:46.853169, end_time=2023-03-20 16:40:49.179307, duration=2.326138
+id=4, command=back 15, response=out of range, start_time=2023-03-20 16:40:49.242304, end_time=2023-03-20 16:40:49.337308, duration=0.095004
+id=5, command=sleep 5, response=error, start_time=2023-03-20 16:40:49.447903, end_time=2023-03-20 16:41:03.798011, duration=14.350108
+id=6, command=land, response=ok, start_time=2023-03-20 16:41:03.891752, end_time=2023-03-20 16:41:04.478544, duration=0.586792

@@ -1,0 +1,26 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2023-03-20 17:00:39.634370, end_time=2023-03-20 17:00:39.675445, duration=0.041075
+id=1, command=command, response=None, start_time=2023-03-20 17:01:25.348155, end_time=None, duration=None
+id=2, command=takeoff, response=ok, start_time=2023-03-20 17:01:45.528314, end_time=2023-03-20 17:01:54.071085, duration=8.542771
+id=3, command=right 30, response=ok, start_time=2023-03-20 17:01:54.324031, end_time=2023-03-20 17:01:55.997301, duration=1.67327
+id=4, command=land, response=ok, start_time=2023-03-20 17:01:56.155278, end_time=2023-03-20 17:01:59.953596, duration=3.798318
+------
+Drone: 2
+id=0, command=command, response=ok, start_time=2023-03-20 17:00:39.634370, end_time=2023-03-20 17:00:39.690858, duration=0.056488
+------
+Drone: 3
+id=0, command=command, response=None, start_time=2023-03-20 17:00:39.633369, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-03-20 17:00:44.662721, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-03-20 17:00:49.681844, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-03-20 17:00:54.704415, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-03-20 17:00:59.726924, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2023-03-20 17:01:04.747870, end_time=None, duration=None
+id=6, command=command, response=None, start_time=2023-03-20 17:01:09.760228, end_time=None, duration=None
+id=7, command=command, response=None, start_time=2023-03-20 17:01:14.786039, end_time=None, duration=None
+id=8, command=command, response=ok, start_time=2023-03-20 17:01:19.805384, end_time=2023-03-20 17:01:20.032350, duration=0.226966
+id=9, command=command, response=None, start_time=2023-03-20 17:01:25.395071, end_time=None, duration=None
+id=10, command=takeoff, response=ok, start_time=2023-03-20 17:01:45.461069, end_time=2023-03-20 17:01:52.566379, duration=7.10531
+id=11, command=left 30, response=ok, start_time=2023-03-20 17:01:52.597046, end_time=2023-03-20 17:01:55.218490, duration=2.621444
+id=12, command=poly 3, response=unknown command: poly, start_time=2023-03-20 17:01:55.249069, end_time=2023-03-20 17:01:55.279496, duration=0.030427
+id=13, command=land, response=ok, start_time=2023-03-20 17:01:55.343592, end_time=2023-03-20 17:01:58.906993, duration=3.563401

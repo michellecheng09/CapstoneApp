@@ -1,3 +1,4 @@
+from asyncio import timeout
 import sys
 import time
 from tello import *
@@ -7,6 +8,8 @@ import time
 import os
 import binascii
 from contextlib import suppress
+
+
 
 class SwarmUtil(object):
     """
@@ -133,25 +136,30 @@ class Swarm(object):
 
         :param fpath: Path to command text file.
         """
+        self.ENU=1
+        self.home_x=0
+        self.home_y=0
+        self.home_z=0
+        
         self.fpath = fpath
         self.commands = self._get_commands(fpath)
         self.manager = TelloManager()
         self.tellos = []
         self.pools = []
         self.sn2ip = {
-            '0TQZK7NED02VMT': '192.168.3.101',
-            '0TQZK7JED02TVJ': '192.168.3.103',
-            '0TQZK5DED02KHL': '192.168.3.104'
+            '0TQZK5DED02KHL': '192.168.0.104',
+            '0TQZK7NED02VMT': '192.168.0.105',
+            '0TQZK7JED02TVJ': '192.168.0.103',
         }
         self.id2sn = {
+            1: '0TQZK5DED02KHL',
             0: '0TQZK7NED02VMT',
-            1: '0TQZK7JED02TVJ',
-            2: '0TQZK5DED02KHL'
+            2: '0TQZK7JED02TVJ',
         }
         self.ip2id = {
-            '192.168.3.101': 0,
-            '192.168.3.103': 1,
-            '192.168.3.104': 2
+            '192.168.0.104': 1,
+            '192.168.0.105': 0,
+            '192.168.0.103': 2,
         }
 
     def start(self):
@@ -195,6 +203,12 @@ class Swarm(object):
                     self._handle_eq(command)
                 elif 'sync' in command:
                     self._handle_sync(command)
+                elif 'read_pad' in command:
+                    self._handle_read_pad(command)
+                elif 'poly' in command:
+                    self._handle_poly(command)
+                elif 'horizontal' in command:
+                    self._handle_horizontal(command)
             
             self._wait_for_all()
         except KeyboardInterrupt as ki:
@@ -205,6 +219,13 @@ class Swarm(object):
         finally:
             SwarmUtil.save_log(self.manager)
 
+    def _handle_read_pad(self):
+        self.start()
+        self.takeoff()
+        mission_pad_number=self.get_mission_pad()
+        print(str(mission_pad_number))
+        self.land()
+        
     def _wait_for_all(self):
         """
         Waits for all queues to be empty and for all responses
@@ -362,6 +383,8 @@ class Swarm(object):
         print(f'[IP_SN_ID] IP = {ip}, SN = {sn}, ID = {id}')
 
     def _handle_sync(self, command):
+
+        
         """
         Handles synchronization.
 
@@ -391,6 +414,7 @@ class Swarm(object):
             print('[SYNC] All response received')
         except RuntimeError:
             print('[SYNC] Failed to sync; timeout exceeded')
+        return self.barrier.wait(timeout)
 
     def _handle_keyboard_interrupt(self):
         """
@@ -412,3 +436,134 @@ class Swarm(object):
         :return: None.
         """
         print(f'[EXCEPTION], {e}')
+
+    def _handle_vertical(self,command):
+        """
+        Handles Vertical Fomation
+        """
+        tello_ips = self.manager.tello_ip_list
+        for ip in tello_ips:
+            self.manager.send_command('land', ip)
+
+    def _handle_horizontal(self):
+        """
+        Handles Horizontal Formation
+        """
+        num=0
+        tello_ips = self.manager.tello_ip_list
+        for ip in tello_ips:
+            if num==0:
+                x1=self.home_x-50
+                y1=self.home_y+50
+                z1=self.home_z 
+                if(self.ENU==0):
+                    self.moveNED(x1,y1,z1,ip)
+                else:
+                    self.moveENU(x1,y1,z1,ip)
+            elif num==1:
+                x2=self.home_x
+                y2=self.home_y
+                z2=self.home_z
+                if(self.ENU==0):
+                    self.moveNED(x2,y2,z2,ip)
+                else:
+                    self.moveENU(x2,y2,z2,ip)
+            elif num==2:
+                x3=self.home_x+50
+                y3=self.home_y-50
+                z3=self.home_z
+                if(self.ENU==0):
+                    self.moveNED(x3,y3,z3,ip)
+                else:
+                    self.moveENU(x3,y3,z3,ip)
+        num=num+1
+
+    def _handle_wave(self,command):
+        """
+        Handles Wave Formation 
+        """
+
+    def _handle_triangle(self,command):
+        """
+        Handles Triangle Formation
+        """
+
+    def _handle_poly(self,command):
+        """
+        Handles Poly Formation 
+
+        """
+       # Swarm = TelloSwarm()
+      #  Swarm.connect()
+
+      #  for drone in Swarm.drones:
+            #drone.takeoff()
+
+        sides = int(command.partition('poly')[2])
+        print(s)
+
+        tello_ips = self.manager.tello_ip_list
+        for ip in tello_ips:
+            for s in range(sides):
+                command= "forward 25" #to update 
+                print(command)
+                self.manager.send_command(command,ip)
+                command2= ip+(f">ccw {(round(360/sides))}")
+                print(command2)
+                self.manager.send_command(command2,ip)
+            pass
+        
+    def moveENU(self,x,y,z,ip):
+        x2=x*-1
+        y2=y*-1
+        z2=y*-1
+
+        if x>0:
+            self.manager.send_command("right {x}",ip)
+            self.manager.send_command("delay 2")
+        elif x<0:
+            self.manager.send_command("left {x2}",ip)
+            self.manager.send_command("delay 2")
+
+        if y>0:
+            self.manager.send_commend("forward {y}",ip)  
+            self.manager.send_command("delay 2")             
+        elif y<0:
+            self.manager.send_command("back {y2}",ip)
+            self.manager.send_command("delay 2")
+
+        if z>0:
+            self.manager.send_command("up {z}",ip)
+            self.manager.send_command("delay 2")
+        elif z<0:
+            self.manager.send_command("down {z2}",ip)
+            self.manager.send_command("delay 2")
+
+    def moveNED(self,x,y,z,ip):
+        y2=y*-1
+        x2=x*-1
+        z2=x*-1
+
+        if y>0:
+            self.manager.send_command("right {y}",ip)
+            self.manager.send_command("delay 2")
+        elif y<0:
+            self.manager.send_command("left {y2}",ip)
+            self.manager.send_command("delay 2")
+        
+        if x>0:
+            self.manager.send_command("forward {x}",ip)
+            self.manager.send_command("delay 2")
+        elif x<0:
+            self.manager.send_command("back {x2}",ip)
+            self.manager.send_command("delay 2")
+
+        if z>0:
+            self.manager.send_command("down {z}",ip)
+            self.manager.send_command("delay 2")
+        elif z<0:
+             self.manager.send_command("up {z2}",ip)
+             self.manager.send_command("delay 2")
+
+    
+        

@@ -1,0 +1,27 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2023-03-17 14:02:20.344770, end_time=2023-03-17 14:02:20.392296, duration=0.047526
+id=1, command=read_pad, response=None, start_time=2023-03-17 14:02:36.029006, end_time=None, duration=None
+id=2, command=takeoff, response=ok, start_time=2023-03-17 14:02:56.113451, end_time=2023-03-17 14:02:59.601865, duration=3.488414
+id=3, command=up 75, response=ok, start_time=2023-03-17 14:02:59.649901, end_time=2023-03-17 14:03:02.107449, duration=2.457548
+id=4, command=left 50, response=ok, start_time=2023-03-17 14:03:02.202452, end_time=2023-03-17 14:03:04.094886, duration=1.892434
+id=5, command=forward 50, response=ok, start_time=2023-03-17 14:03:04.173000, end_time=2023-03-17 14:03:06.845657, duration=2.672657
+id=6, command=land, response=ok, start_time=2023-03-17 14:03:06.923225, end_time=2023-03-17 14:03:11.594876, duration=4.671651
+------
+Drone: 2
+id=0, command=command, response=ok, start_time=2023-03-17 14:02:20.344770, end_time=2023-03-17 14:02:20.392296, duration=0.047526
+id=1, command=read_pad, response=unknown command: read_pad, start_time=2023-03-17 14:02:35.953974, end_time=2023-03-17 14:02:36.029006, duration=0.075032
+id=2, command=takeoff, response=ok, start_time=2023-03-17 14:02:36.313265, end_time=2023-03-17 14:02:39.878950, duration=3.565685
+id=3, command=up 50, response=ok, start_time=2023-03-17 14:02:39.959023, end_time=2023-03-17 14:02:43.080448, duration=3.121425
+id=4, command=forward 50, response=ok, start_time=2023-03-17 14:02:43.144259, end_time=2023-03-17 14:02:45.180140, duration=2.035881
+id=5, command=land, response=ok, start_time=2023-03-17 14:02:45.291423, end_time=2023-03-17 14:02:48.234057, duration=2.942634
+------
+Drone: 3
+id=0, command=command, response=None, start_time=2023-03-17 14:02:20.344770, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-03-17 14:02:25.375465, end_time=None, duration=None
+id=2, command=command, response=ok, start_time=2023-03-17 14:02:30.388904, end_time=2023-03-17 14:02:30.638710, duration=0.249806
+id=3, command=read_pad, response=unknown command: read_pad, start_time=2023-03-17 14:02:35.997052, end_time=2023-03-17 14:02:36.076974, duration=0.079922
+id=4, command=takeoff, response=ok, start_time=2023-03-17 14:02:36.171464, end_time=2023-03-17 14:02:40.828041, duration=4.656577
+id=5, command=up 25, response=ok, start_time=2023-03-17 14:02:41.001988, end_time=2023-03-17 14:02:42.892756, duration=1.890768
+id=6, command=forward 50, response=ok, start_time=2023-03-17 14:02:43.003051, end_time=2023-03-17 14:02:44.804089, duration=1.801038
+id=7, command=land, response=ok, start_time=2023-03-17 14:02:44.866094, end_time=2023-03-17 14:02:48.706998, duration=3.840904

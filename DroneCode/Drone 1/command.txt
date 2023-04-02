@@ -1,10 +1,7 @@
 command
+mon
+mdirection 2
 takeoff
-flip f
-up 40
-right 40 
-left 40 
-flip b 
-poly 4
-poly 6
+go 30 40 50 m1
+go 30 40 50 m4
 land

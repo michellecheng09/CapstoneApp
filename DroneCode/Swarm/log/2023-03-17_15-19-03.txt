@@ -1,0 +1,22 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2023-03-17 15:18:47.508988, end_time=2023-03-17 15:18:47.745348, duration=0.23636
+id=1, command=mon, response=ok, start_time=2023-03-17 15:18:52.906696, end_time=2023-03-17 15:18:52.922831, duration=0.016135
+id=2, command=mdirection 2, response=error, start_time=2023-03-17 15:18:53.143368, end_time=2023-03-17 15:19:02.757489, duration=9.614121
+id=3, command=land, response=ok, start_time=2023-03-17 15:19:02.788992, end_time=2023-03-17 15:19:03.429763, duration=0.640771
+id=4, command=takeoff, response=None, start_time=2023-03-17 15:19:03.572592, end_time=None, duration=None
+------
+Drone: 2
+id=0, command=command, response=error, start_time=2023-03-17 15:18:47.508988, end_time=2023-03-17 15:18:47.745348, duration=0.23636
+id=1, command=mon, response=error, start_time=2023-03-17 15:18:52.938261, end_time=2023-03-17 15:18:53.554192, duration=0.615931
+id=2, command=mdirection 2, response=error, start_time=2023-03-17 15:18:53.714198, end_time=2023-03-17 15:18:54.629804, duration=0.915606
+id=3, command=takeoff, response=error, start_time=2023-03-17 15:18:54.709714, end_time=2023-03-17 15:18:55.548148, duration=0.838434
+id=4, command=go 90 0 50 25 m3, response=error Motor stop, start_time=2023-03-17 15:18:55.659051, end_time=2023-03-17 15:18:55.691053, duration=0.032002
+id=5, command=land, response=ok, start_time=2023-03-17 15:18:55.817497, end_time=2023-03-17 15:18:55.865434, duration=0.047937
+id=6, command=land, response=error, start_time=2023-03-17 15:19:03.525636, end_time=2023-03-17 15:19:03.652633, duration=0.126997
+------
+Drone: 3
+id=0, command=command, response=ok, start_time=2023-03-17 15:18:47.507984, end_time=2023-03-17 15:18:47.746366, duration=0.238382
+id=1, command=mon, response=error, start_time=2023-03-17 15:18:52.863699, end_time=2023-03-17 15:19:03.748722, duration=10.885023
+id=2, command=land, response=ok, start_time=2023-03-17 15:19:03.764633, end_time=2023-03-17 15:19:03.812745, duration=0.048112
+id=3, command=mdirection 2, response=None, start_time=2023-03-17 15:19:03.876718, end_time=None, duration=None

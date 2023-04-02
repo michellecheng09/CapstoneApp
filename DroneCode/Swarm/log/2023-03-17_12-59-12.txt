@@ -1,0 +1,21 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2023-03-17 12:58:21.106578, end_time=2023-03-17 12:58:21.357697, duration=0.251119
+id=1, command=takeoff, response=ok, start_time=2023-03-17 12:58:26.784714, end_time=2023-03-17 12:58:30.148577, duration=3.363863
+id=2, command=mon, response=None, start_time=2023-03-17 12:58:30.207185, end_time=None, duration=None
+id=3, command=go(30,0,0,20,m6), response=unknown command: go(30,0,0,20,m6), start_time=2023-03-17 12:58:50.283645, end_time=2023-03-17 12:58:50.293141, duration=0.009496
+id=4, command=land, response=ok, start_time=2023-03-17 12:58:50.407496, end_time=2023-03-17 12:58:50.949471, duration=0.541975
+------
+Drone: 2
+id=0, command=command, response=ok, start_time=2023-03-17 12:58:21.106578, end_time=2023-03-17 12:58:21.363704, duration=0.257126
+id=1, command=takeoff, response=ok, start_time=2023-03-17 12:58:26.641271, end_time=2023-03-17 12:58:31.202551, duration=4.56128
+id=2, command=mon, response=unknown command: go(50,0,0,20,m8), start_time=2023-03-17 12:58:31.221255, end_time=2023-03-17 12:58:51.252247, duration=20.030992
+id=3, command=go(50,0,0,20,m8), response=None, start_time=2023-03-17 12:58:51.310206, end_time=None, duration=None
+id=4, command=land, response=error, start_time=2023-03-17 12:59:11.391215, end_time=2023-03-17 12:59:11.425103, duration=0.033888
+------
+Drone: 3
+id=0, command=command, response=ok, start_time=2023-03-17 12:58:21.107115, end_time=2023-03-17 12:58:23.133211, duration=2.026096
+id=1, command=takeoff, response=ok, start_time=2023-03-17 12:58:26.697942, end_time=2023-03-17 12:58:33.711845, duration=7.013903
+id=2, command=mon, response=ok, start_time=2023-03-17 12:58:33.762882, end_time=2023-03-17 12:58:33.780462, duration=0.01758
+id=3, command=go(30,0,0,20,m4), response=error, start_time=2023-03-17 12:58:33.941773, end_time=2023-03-17 12:58:54.060158, duration=20.118385
+id=4, command=land, response=ok, start_time=2023-03-17 12:58:54.110882, end_time=2023-03-17 12:58:54.686180, duration=0.575298
