@@ -1,0 +1,22 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2023-04-03 17:57:15.948588, end_time=2023-04-03 17:57:15.966588, duration=0.018
+id=1, command=takeoff, response=ok, start_time=2023-04-03 17:57:26.484592, end_time=2023-04-03 17:57:35.094677, duration=8.610085
+id=2, command=up 30, response=ok, start_time=2023-04-03 17:57:35.439594, end_time=2023-04-03 17:57:37.487278, duration=2.047684
+id=3, command=down 0, response=None, start_time=2023-04-03 17:59:48.254940, end_time=None, duration=None
+id=4, command=land, response=error, start_time=2023-04-03 17:59:49.631817, end_time=2023-04-03 17:59:49.743249, duration=0.111432
+------
+Drone: 2
+id=0, command=command, response=ok, start_time=2023-04-03 17:57:15.947591, end_time=2023-04-03 17:57:15.977588, duration=0.029997
+id=1, command=takeoff, response=ok, start_time=2023-04-03 17:57:26.374718, end_time=2023-04-03 17:57:31.537074, duration=5.162356
+id=2, command=up 30, response=ok, start_time=2023-04-03 17:57:31.914007, end_time=2023-04-03 17:57:33.472483, duration=1.558476
+id=3, command=down 0, response=None, start_time=2023-04-03 17:57:37.658374, end_time=None, duration=None
+id=4, command=land, response=error, start_time=2023-04-03 17:59:49.852252, end_time=2023-04-03 17:59:49.931485, duration=0.079233
+------
+Drone: 3
+id=0, command=command, response=None, start_time=2023-04-03 17:57:15.948588, end_time=None, duration=None
+id=1, command=command, response=ok, start_time=2023-04-03 17:57:20.972502, end_time=2023-04-03 17:57:21.217833, duration=0.245331
+id=2, command=takeoff, response=out of range, start_time=2023-04-03 17:57:26.593663, end_time=2023-04-03 17:57:33.764475, duration=7.170812
+id=3, command=down 0, response=ok, start_time=2023-04-03 17:57:33.984470, end_time=2023-04-03 17:57:35.204684, duration=1.220214
+id=4, command=up 60, response=error, start_time=2023-04-03 17:57:58.098585, end_time=2023-04-03 17:59:50.134443, duration=112.035858
+id=5, command=land, response=ok, start_time=2023-04-03 17:59:50.181476, end_time=2023-04-03 17:59:50.763156, duration=0.58168

@@ -1,0 +1,26 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2023-04-03 17:40:23.529946, end_time=2023-04-03 17:40:23.778233, duration=0.248287
+id=1, command=takeoff, response=ok, start_time=2023-04-03 17:40:29.089716, end_time=2023-04-03 17:40:34.443012, duration=5.353296
+id=2, command=stop, response=ok, start_time=2023-04-03 17:40:34.554126, end_time=2023-04-03 17:40:34.601109, duration=0.046983
+id=3, command=stop, response=error Motor stop, start_time=2023-04-03 17:40:34.726507, end_time=2023-04-03 17:40:54.845253, duration=20.118746
+id=4, command=up 30, response=None, start_time=2023-04-03 17:40:54.845425, end_time=None, duration=None
+id=5, command=stop, response=ok, start_time=2023-04-03 17:41:56.218966, end_time=2023-04-03 17:41:56.327318, duration=0.108352
+id=6, command=stop, response=error, start_time=2023-04-03 17:41:56.545114, end_time=2023-04-03 17:41:59.935361, duration=3.390247
+id=7, command=land, response=ok, start_time=2023-04-03 17:42:00.028366, end_time=2023-04-03 17:42:00.422400, duration=0.394034
+------
+Drone: 2
+id=0, command=command, response=ok, start_time=2023-04-03 17:40:23.530955, end_time=2023-04-03 17:40:23.778233, duration=0.247278
+id=1, command=takeoff, response=ok, start_time=2023-04-03 17:40:29.116867, end_time=2023-04-03 17:40:34.726507, duration=5.60964
+id=2, command=stop, response=ok, start_time=2023-04-03 17:41:15.085063, end_time=2023-04-03 17:41:15.116063, duration=0.031
+id=3, command=stop, response=forced stop, start_time=2023-04-03 17:41:15.303327, end_time=2023-04-03 17:41:15.319066, duration=0.015739
+id=4, command=down 0, response=error, start_time=2023-04-03 17:41:15.444667, end_time=2023-04-03 17:42:00.517481, duration=45.072814
+id=5, command=land, response=ok, start_time=2023-04-03 17:42:00.611438, end_time=2023-04-03 17:42:01.105260, duration=0.493822
+------
+Drone: 3
+id=0, command=command, response=ok, start_time=2023-04-03 17:40:23.530955, end_time=2023-04-03 17:40:23.778233, duration=0.247278
+id=1, command=takeoff, response=ok, start_time=2023-04-03 17:40:29.147723, end_time=2023-04-03 17:40:33.339586, duration=4.191863
+id=2, command=stop, response=forced stop, start_time=2023-04-03 17:41:35.604892, end_time=2023-04-03 17:41:35.712990, duration=0.108098
+id=3, command=stop, response=None, start_time=2023-04-03 17:41:35.900630, end_time=None, duration=None
+id=4, command=up 30, response=error Motor stop, start_time=2023-04-03 17:41:56.029342, end_time=2023-04-03 17:41:56.061430, duration=0.032088
+id=5, command=land, response=ok, start_time=2023-04-03 17:42:01.136309, end_time=2023-04-03 17:42:01.754415, duration=0.618106

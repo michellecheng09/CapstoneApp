@@ -1,0 +1,22 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2023-04-03 16:43:43.129383, end_time=2023-04-03 16:43:43.462349, duration=0.332966
+id=1, command=takeoff, response=ok, start_time=2023-04-03 16:43:58.857209, end_time=2023-04-03 16:44:07.524647, duration=8.667438
+id=2, command=stop, response=error, start_time=2023-04-03 16:44:09.442117, end_time=2023-04-03 16:44:24.966840, duration=15.524723
+id=3, command=land, response=None, start_time=2023-04-03 16:44:25.034937, end_time=None, duration=None
+------
+Drone: 2
+id=0, command=command, response=ok, start_time=2023-04-03 16:43:43.129383, end_time=2023-04-03 16:43:43.462349, duration=0.332966
+id=1, command=takeoff, response=ok, start_time=2023-04-03 16:43:58.990771, end_time=2023-04-03 16:44:04.615223, duration=5.624452
+id=2, command=back 50, response=error Motor stop, start_time=2023-04-03 16:44:09.516109, end_time=2023-04-03 16:44:10.808299, duration=1.29219
+id=3, command=right 25, response=None, start_time=2023-04-03 16:44:10.933336, end_time=None, duration=None
+------
+Drone: 3
+id=0, command=command, response=None, start_time=2023-04-03 16:43:43.129108, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 16:43:48.166575, end_time=None, duration=None
+id=2, command=command, response=ok, start_time=2023-04-03 16:43:53.194661, end_time=2023-04-03 16:43:53.446144, duration=0.251483
+id=3, command=takeoff, response=ok, start_time=2023-04-03 16:43:58.819501, end_time=2023-04-03 16:44:04.100776, duration=5.281275
+id=4, command=forward 50, response=ok, start_time=2023-04-03 16:44:09.398081, end_time=2023-04-03 16:44:11.637846, duration=2.239765
+id=5, command=left 25, response=ok, start_time=2023-04-03 16:44:11.741068, end_time=2023-04-03 16:44:13.312676, duration=1.571608
+id=6, command=right 25, response=ok, start_time=2023-04-03 16:44:19.957447, end_time=2023-04-03 16:44:21.814823, duration=1.857376
+id=7, command=back 50, response=ok, start_time=2023-04-03 16:44:21.921978, end_time=2023-04-03 16:44:23.947952, duration=2.025974

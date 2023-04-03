@@ -1,0 +1,9 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2023-04-03 16:41:43.050111, end_time=2023-04-03 16:41:43.304112, duration=0.254001
+------
+Drone: 2
+id=0, command=command, response=ok, start_time=2023-04-03 16:41:43.050111, end_time=2023-04-03 16:41:43.304112, duration=0.254001
+------
+Drone: 3
+id=0, command=command, response=ok, start_time=2023-04-03 16:41:43.050111, end_time=2023-04-03 16:41:43.304112, duration=0.254001
