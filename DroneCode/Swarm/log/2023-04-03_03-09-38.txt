@@ -1,0 +1,19 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2023-04-03 03:09:05.004871, end_time=2023-04-03 03:09:05.043164, duration=0.038293
+id=1, command=takeoff, response=None, start_time=2023-04-03 03:09:10.603290, end_time=None, duration=None
+id=2, command=back 30, response=error Not joystick, start_time=2023-04-03 03:09:16.299331, end_time=2023-04-03 03:09:16.748343, duration=0.449012
+id=3, command=right 30, response=error Not joystick, start_time=2023-04-03 03:09:17.058551, end_time=2023-04-03 03:09:17.445658, duration=0.387107
+id=4, command=land, response=ok, start_time=2023-04-03 03:09:34.749850, end_time=2023-04-03 03:09:35.236073, duration=0.486223
+------
+Drone: 2
+id=0, command=command, response=ok, start_time=2023-04-03 03:09:05.004871, end_time=2023-04-03 03:09:05.044280, duration=0.039409
+id=1, command=takeoff, response=ok, start_time=2023-04-03 03:09:10.678396, end_time=2023-04-03 03:09:19.337843, duration=8.659447
+id=2, command=land, response=ok, start_time=2023-04-03 03:09:34.800725, end_time=2023-04-03 03:09:35.311041, duration=0.510316
+------
+Drone: 3
+id=0, command=command, response=ok, start_time=2023-04-03 03:09:05.004871, end_time=2023-04-03 03:09:05.056472, duration=0.051601
+id=1, command=takeoff, response=None, start_time=2023-04-03 03:09:11.123809, end_time=None, duration=None
+id=2, command=forward 30, response=error Not joystick, start_time=2023-04-03 03:09:18.421036, end_time=2023-04-03 03:09:18.797259, duration=0.376223
+id=3, command=left 30, response=ok, start_time=2023-04-03 03:09:18.948786, end_time=2023-04-03 03:09:19.391565, duration=0.442779
+id=4, command=land, response=ok, start_time=2023-04-03 03:09:34.902060, end_time=2023-04-03 03:09:38.391264, duration=3.489204

@@ -1,0 +1,22 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2023-04-03 03:12:48.438754, end_time=2023-04-03 03:12:48.452263, duration=0.013509
+id=1, command=takeoff, response=None, start_time=2023-04-03 03:12:53.947165, end_time=None, duration=None
+id=2, command=back 30, response=error Not joystick, start_time=2023-04-03 03:12:59.369856, end_time=2023-04-03 03:12:59.740382, duration=0.370526
+id=3, command=right 30, response=ok, start_time=2023-04-03 03:12:59.862346, end_time=2023-04-03 03:13:00.326421, duration=0.464075
+id=4, command=land, response=error, start_time=2023-04-03 03:13:18.950325, end_time=2023-04-03 03:13:57.739674, duration=38.789349
+id=5, command=land, response=ok, start_time=2023-04-03 03:13:57.886922, end_time=2023-04-03 03:13:58.317031, duration=0.430109
+------
+Drone: 2
+id=0, command=command, response=ok, start_time=2023-04-03 03:12:48.438754, end_time=2023-04-03 03:12:48.467131, duration=0.028377
+id=1, command=takeoff, response=ok, start_time=2023-04-03 03:12:54.160098, end_time=2023-04-03 03:12:58.708697, duration=4.548599
+id=2, command=forward 30, response=ok, start_time=2023-04-03 03:13:00.705096, end_time=2023-04-03 03:13:02.153451, duration=1.448355
+id=3, command=left 30, response=ok, start_time=2023-04-03 03:13:02.283661, end_time=2023-04-03 03:13:03.779994, duration=1.496333
+id=4, command=land, response=ok, start_time=2023-04-03 03:13:19.034830, end_time=2023-04-03 03:13:22.638739, duration=3.603909
+id=5, command=land, response=ok, start_time=2023-04-03 03:13:58.596140, end_time=2023-04-03 03:13:58.964902, duration=0.368762
+------
+Drone: 3
+id=0, command=command, response=ok, start_time=2023-04-03 03:12:48.438754, end_time=2023-04-03 03:12:48.470180, duration=0.031426
+id=1, command=takeoff, response=ok, start_time=2023-04-03 03:12:54.032157, end_time=2023-04-03 03:13:00.011304, duration=5.979147
+id=2, command=land, response=ok, start_time=2023-04-03 03:13:19.084039, end_time=2023-04-03 03:13:19.480002, duration=0.395963
+id=3, command=land, response=error, start_time=2023-04-03 03:13:59.167694, end_time=2023-04-03 03:13:59.184610, duration=0.016916

@@ -1,0 +1,16 @@
+scan 3
+1=0TQZK7NED02VMT
+2=0TQZK5DED02KHL
+3=0TQZK7JED02TVJ
+1>takeoff
+2>takeoff
+3>takeoff
+delay 2
+1>back 30 
+1>right 30 
+2>stop
+3>forward 30
+3>left 30
+1>land
+2>land
+3>land

@@ -1,0 +1,19 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2023-04-03 02:49:50.695360, end_time=2023-04-03 02:49:50.712399, duration=0.017039
+id=1, command=takeoff, response=ok, start_time=2023-04-03 02:49:56.564817, end_time=2023-04-03 02:50:05.271497, duration=8.70668
+id=2, command=land, response=ok, start_time=2023-04-03 02:50:05.439173, end_time=2023-04-03 02:50:07.853502, duration=2.414329
+------
+Drone: 2
+id=0, command=command, response=ok, start_time=2023-04-03 02:49:50.695360, end_time=2023-04-03 02:49:50.729567, duration=0.034207
+id=1, command=takeoff, response=ok, start_time=2023-04-03 02:49:56.533799, end_time=2023-04-03 02:50:00.254433, duration=3.720634
+id=2, command=back 30, response=ok, start_time=2023-04-03 02:50:00.325179, end_time=2023-04-03 02:50:01.940437, duration=1.615258
+id=3, command=right 30, response=ok, start_time=2023-04-03 02:50:02.076796, end_time=2023-04-03 02:50:03.787823, duration=1.711027
+id=4, command=land, response=ok, start_time=2023-04-03 02:50:05.322039, end_time=2023-04-03 02:50:11.062181, duration=5.740142
+------
+Drone: 3
+id=0, command=command, response=ok, start_time=2023-04-03 02:49:50.695360, end_time=2023-04-03 02:49:50.745621, duration=0.050261
+id=1, command=takeoff, response=ok, start_time=2023-04-03 02:49:56.626756, end_time=2023-04-03 02:50:05.204574, duration=8.577818
+id=2, command=forward 30, response=ok, start_time=2023-04-03 02:50:05.271497, end_time=2023-04-03 02:50:06.694257, duration=1.42276
+id=3, command=left 30, response=ok, start_time=2023-04-03 02:50:06.790402, end_time=2023-04-03 02:50:08.516623, duration=1.726221
+id=4, command=land, response=ok, start_time=2023-04-03 02:50:08.669760, end_time=2023-04-03 02:50:12.177560, duration=3.5078

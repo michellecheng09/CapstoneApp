@@ -147,18 +147,18 @@ class Swarm(object):
         self.tellos = []
         self.pools = []
         self.sn2ip = {
-            '0TQZK5DED02KHL': '192.168.0.101',
             '0TQZK7NED02VMT': '192.168.0.100',
+            '0TQZK5DED02KHL': '192.168.0.101',
             '0TQZK7JED02TVJ': '192.168.0.102',
         }
         self.id2sn = {
-            1: '0TQZK5DED02KHL',
             0: '0TQZK7NED02VMT',
+            1: '0TQZK5DED02KHL',
             2: '0TQZK7JED02TVJ',
         }
         self.ip2id = {
-            '192.168.0.101': 1,
             '192.168.0.100': 0,
+            '192.168.0.101': 1,
             '192.168.0.102': 2,
         }
 
@@ -439,23 +439,21 @@ class Swarm(object):
 
     def _handle_vertical(self,command):
         """
-        Handles Vertical Fomation
+        Handles vertical Formation
+        Assumes start with horizontal line up
         """
-        tello_ips = self.manager.tello_ip_list
-        for ip in tello_ips:
-            self.manager.send_command('land', ip)
 
-    def _handle_horizontal(self,command):
-        """
-        Handles Horizontal Formation
-        """
+        id_list=[]
+        id_list=[t for t in range(len(self.tellos))]
         num=0
-        tello_ips = self.manager.tello_ip_list
-        for ip in tello_ips:
+        
+        for tello_id in id_list:
+            sn = self.id2sn[tello_id]
+            ip = self.sn2ip[sn]
             if num==0:
                 print(f'{str(num)}{str(ip)}')
-                x1=self.home_x-50
-                y1=self.home_y+50
+                x1=self.home_x-30
+                y1=self.home_y+30
                 z1=self.home_z 
                 print(f'{x1},{y1},{z1}')
                 if(self.ENU==1):
@@ -474,8 +472,91 @@ class Swarm(object):
                     self.moveENU(x2,y2,z2,ip)
             elif num==2:
                 print(f'{str(num)}{str(ip)}')
-                x3=self.home_x+50
-                y3=self.home_y-50
+                x3=self.home_x+30
+                y3=self.home_y-30
+                z3=self.home_z
+                print(f'{x3}{y3}{z3}')
+                if(self.ENU==1):
+                    self.moveNED(x3,y3,z3,ip)
+                else:
+                    self.moveENU(x3,y3,z3,ip)
+            num=num+1
+
+        #Return to orginal formation 
+        num=0
+        for tello_id in id_list:
+            sn = self.id2sn[tello_id]
+            ip = self.sn2ip[sn]
+            if num==0:
+                print(f'{str(num)}{str(ip)}')
+                x1=self.home_x+30
+                y1=self.home_y-30
+                z1=self.home_z 
+                print(f'{x1},{y1},{z1}')
+                if(self.ENU==1):
+                    self.moveNED(x1,y1,z1,ip)
+                else:
+                    self.moveENU(x1,y1,z1,ip)
+            elif num==1:
+                print(f'{str(num)}{str(ip)}')
+                x2=self.home_x
+                y2=self.home_y
+                z2=self.home_z
+                print(f'{x2}{y2}{z2}')
+                if(self.ENU==1):
+                    self.moveNED(x2,y2,z2,ip)
+                else:
+                    self.moveENU(x2,y2,z2,ip)
+            elif num==2:
+                print(f'{str(num)}{str(ip)}')
+                x3=self.home_x-30
+                y3=self.home_y+30
+                z3=self.home_z
+                print(f'{x3}{y3}{z3}')
+                if(self.ENU==1):
+                    self.moveNED(x3,y3,z3,ip)
+                else:
+                    self.moveENU(x3,y3,z3,ip)
+            num=num+1
+
+    def _handle_horizontal(self,command):
+        """
+        Handles Vertical Formation
+        Assumes start from vertical line up
+        """
+
+        id_list = [] 
+        id_list = [t for t in range(len(self.tellos))]
+
+        num=0
+        
+        for tello_id in id_list:
+            sn = self.id2sn[tello_id]
+            ip = self.sn2ip[sn]
+            if num==0:
+                print(f'{str(num)}{str(ip)}')
+                x1=self.home_x+30
+                y1=self.home_y-30
+                z1=self.home_z 
+                print(f'{x1},{y1},{z1}')
+                if(self.ENU==1):
+                    self.moveNED(x1,y1,z1,ip)
+                else:
+                    self.moveENU(x1,y1,z1,ip)
+            elif num==1:
+                print(f'{str(num)}{str(ip)}')
+                x2=self.home_x
+                y2=self.home_y
+                z2=self.home_z
+                print(f'{x2}{y2}{z2}')
+                if(self.ENU==1):
+                    self.moveNED(x2,y2,z2,ip)
+                else:
+                    self.moveENU(x2,y2,z2,ip)
+            elif num==2:
+                print(f'{str(num)}{str(ip)}')
+                x3=self.home_x-30
+                y3=self.home_y+30
                 z3=self.home_z
                 print(f'{x3}{y3}{z3}')
                 if(self.ENU==1):
@@ -492,6 +573,11 @@ class Swarm(object):
     def _handle_triangle(self,command):
         """
         Handles Triangle Formation
+        """
+
+    def _handle_circle(self,command): 
+        """
+        Handles Circle Formation
         """
 
     def _handle_poly(self,command):
