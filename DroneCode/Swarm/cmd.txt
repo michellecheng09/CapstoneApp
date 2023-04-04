@@ -5,8 +5,9 @@ scan 3
 1>takeoff
 2>takeoff
 3>takeoff
-delay 5
-triangle
+delay 3
+circle
+delay 3
 1>land
 2>land
 3>land

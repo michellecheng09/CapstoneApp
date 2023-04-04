@@ -1,0 +1,26 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2023-04-03 18:47:34.666069, end_time=2023-04-03 18:47:34.686761, duration=0.020692
+id=1, command=takeoff, response=None, start_time=2023-04-03 18:47:40.079211, end_time=None, duration=None
+id=2, command=up 30, response=ok, start_time=2023-04-03 18:47:45.504838, end_time=2023-04-03 18:47:46.107792, duration=0.602954
+id=3, command=down 60, response=ok, start_time=2023-04-03 18:47:50.755323, end_time=2023-04-03 18:47:53.171818, duration=2.416495
+id=4, command=up 30, response=ok, start_time=2023-04-03 18:47:58.474268, end_time=2023-04-03 18:48:00.399324, duration=1.925056
+id=5, command=land, response=ok, start_time=2023-04-03 18:48:09.933051, end_time=2023-04-03 18:48:12.314080, duration=2.381029
+------
+Drone: 2
+id=0, command=command, response=ok, start_time=2023-04-03 18:47:34.673341, end_time=2023-04-03 18:47:34.693566, duration=0.020225
+id=1, command=takeoff, response=None, start_time=2023-04-03 18:47:40.196613, end_time=None, duration=None
+id=2, command=up 30, response=ok, start_time=2023-04-03 18:47:48.822027, end_time=2023-04-03 18:47:50.629110, duration=1.807083
+id=3, command=down 60, response=ok, start_time=2023-04-03 18:47:55.752296, end_time=2023-04-03 18:47:58.294361, duration=2.542065
+id=4, command=up 30, response=ok, start_time=2023-04-03 18:48:02.739834, end_time=2023-04-03 18:48:04.613244, duration=1.87341
+id=5, command=land, response=ok, start_time=2023-04-03 18:48:10.179610, end_time=2023-04-03 18:48:12.800295, duration=2.620685
+------
+Drone: 3
+id=0, command=command, response=ok, start_time=2023-04-03 18:47:34.673341, end_time=2023-04-03 18:47:34.704728, duration=0.031387
+id=1, command=takeoff, response=None, start_time=2023-04-03 18:47:40.328485, end_time=None, duration=None
+id=2, command=up 70, response=error Not joystick, start_time=2023-04-03 18:47:43.558602, end_time=2023-04-03 18:47:44.138404, duration=0.579802
+id=3, command=down 70, response=error Not joystick, start_time=2023-04-03 18:47:44.466602, end_time=2023-04-03 18:47:45.093222, duration=0.62662
+id=4, command=down 30, response=ok, start_time=2023-04-03 18:47:46.533906, end_time=2023-04-03 18:47:48.561336, duration=2.02743
+id=5, command=up 60, response=ok, start_time=2023-04-03 18:47:53.364834, end_time=2023-04-03 18:47:55.621903, duration=2.257069
+id=6, command=down 30, response=ok, start_time=2023-04-03 18:48:00.654288, end_time=2023-04-03 18:48:02.616060, duration=1.961772
+id=7, command=land, response=ok, start_time=2023-04-03 18:48:10.063719, end_time=2023-04-03 18:48:13.792381, duration=3.728662

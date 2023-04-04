@@ -1,0 +1,17 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2023-04-03 18:39:04.262307, end_time=2023-04-03 18:39:04.515388, duration=0.253081
+id=1, command=takeoff, response=ok, start_time=2023-04-03 18:39:09.762907, end_time=2023-04-03 18:39:18.494285, duration=8.731378
+id=2, command=land, response=ok, start_time=2023-04-03 18:39:18.548143, end_time=2023-04-03 18:39:22.820550, duration=4.272407
+------
+Drone: 2
+id=0, command=command, response=ok, start_time=2023-04-03 18:39:04.262307, end_time=2023-04-03 18:39:04.515388, duration=0.253081
+id=1, command=takeoff, response=ok, start_time=2023-04-03 18:39:09.870071, end_time=2023-04-03 18:39:16.178620, duration=6.308549
+id=2, command=land, response=ok, start_time=2023-04-03 18:39:18.233349, end_time=2023-04-03 18:39:18.857379, duration=0.62403
+------
+Drone: 3
+id=0, command=command, response=ok, start_time=2023-04-03 18:39:04.262307, end_time=2023-04-03 18:39:04.515388, duration=0.253081
+id=1, command=takeoff, response=None, start_time=2023-04-03 18:39:09.989051, end_time=None, duration=None
+id=2, command=up 70, response=ok, start_time=2023-04-03 18:39:13.170848, end_time=2023-04-03 18:39:14.380432, duration=1.209584
+id=3, command=down 70, response=error No valid imu, start_time=2023-04-03 18:39:14.814862, end_time=2023-04-03 18:39:14.992043, duration=0.177181
+id=4, command=land, response=ok, start_time=2023-04-03 18:39:18.248741, end_time=2023-04-03 18:39:21.040660, duration=2.791919

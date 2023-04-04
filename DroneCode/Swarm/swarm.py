@@ -213,6 +213,8 @@ class Swarm(object):
                     self._handle_triangle(command)
                 elif 'wave' in command:
                     self._handle_wave(command)
+                elif 'circle' in command:
+                    self._handle_circle(command)
 
             self._wait_for_all()
         except KeyboardInterrupt as ki:
@@ -450,29 +452,38 @@ class Swarm(object):
         #Make horizontal line to vertical on x axis 
         coordinates={}
         
-        coordinates.update([('x1',self.home_x-30),('y1',self.home_y+30),('z1',self.home_z+0),
-                            ('x2',self.home_x+0),('y2',self.home_y+0),('z2',self.home_z+0),
-                            ('x3',self.home_x+30),('y3',self.home_y-30),('z3',self.home_z+0)])
+        coordinates.update([('x1',self.home_x-30),('y1',self.home_y+30),('z1',self.home_z),
+                            ('x2',self.home_x),('y2',self.home_y),('z2',self.home_z),
+                            ('x3',self.home_x+30),('y3',self.home_y-30),('z3',self.home_z)])
 
         self.loop(coordinates)
 
-        #make vertical on x axis to z axis  
+        #Add diagonal
 
         coordinates.clear()
         
-        coordinates.update([('x1',self.home_x+30),('y1',self.home_y+0),('z1',self.home_z+30),
-                            ('x2',self.home_x+0),('y2',self.home_y+0),('z2',self.home_z+0),
-                            ('x3',self.home_x+-30),('y3',self.home_y+0),('z3',self.home_z+-30)])
+        coordinates.update([('x1',self.home_x),('y1',self.home_y),('z1',self.home_z+30),
+                            ('x2',self.home_x),('y2',self.home_y),('z2',self.home_z),
+                            ('x3',self.home_x),('y3',self.home_y),('z3',self.home_z-30)])
 
         self.loop(coordinates)
 
-        #make vertical on z axis to y axis  (Return to orginial)
+        #move left right 
+        coordinates.clear()
+        
+        coordinates.update([('x1',self.home_x),('y1',self.home_y-30),('z1',self.home_z),
+                            ('x2',self.home_x),('y2',self.home_y),('z2',self.home_z),
+                            ('x3',self.home_x),('y3',self.home_y)+30,('z3',self.home_z)])
+        
+        self.loop(coordinates)
+
+        #Return to orginal position (horizontal formation)
 
         coordinates.clear()
         
-        coordinates.update([('x1',self.home_x+0),('y1',self.home_y-30),('z1',self.home_z-30),
-                            ('x2',self.home_x+0),('y2',self.home_y+0),('z2',self.home_z+0),
-                            ('x3',self.home_x+0),('y3',self.home_y+30),('z3',self.home_z+30)])
+        coordinates.update([('x1',self.home_x+30),('y1',self.home_x),('z1',self.home_z-30),
+                            ('x2',self.home_x),('y2',self.home_y),('z2',self.home_z+0),
+                            ('x3',self.home_x-30),('y3',self.home_y),('z3',self.home_z+30)])
 
         self.loop(coordinates)
         
@@ -519,7 +530,7 @@ class Swarm(object):
         coordinates={}
         
         coordinates.update([('x1',self.home_x),('y1',self.home_y),('z1',self.home_z),
-                            ('x2',self.home_x),('y2',self.home_y),('z2',self.home_z+30),
+                            ('x2',self.home_x),('y2',self.home_y),('z2',self.home_z+70),
                             ('x3',self.home_x),('y3',self.home_y),('z3',self.home_z)])
         self.loop(coordinates)
 
@@ -527,14 +538,23 @@ class Swarm(object):
         coordinates.clear()
         
         coordinates.update([('x1',self.home_x),('y1',self.home_y),('z1',self.home_z),
-                            ('x2',self.home_x),('y2',self.home_y),('z2',self.home_z-30),
+                            ('x2',self.home_x),('y2',self.home_y),('z2',self.home_z-70),
                             ('x3',self.home_x),('y3',self.home_y),('z3',self.home_z)])
         self.loop(coordinates)
 
     def _handle_circle(self,command): 
         """
         Handles Circle Formation
+        Assuming horizontal starting point and always returns to starting point 
         """
+        coordinates={}
+
+        coordinates.update([('x1',self.home_x),('y1',self.home_y-30),('z1',self.home_z+30),
+                            ('x2',self.home_x),('y2',self.home_y),('z2',self.home_z),
+                            ('x3',self.home_x),('y3',self.home_y+30),('z3',self.home_z+30)])
+        
+        self.circleloop(coordinates)
+
 
     def _handle_poly(self,command):
         """
@@ -589,11 +609,44 @@ class Swarm(object):
                 else:
                     self.moveENU(coordinates["x3"],coordinates["y3"],coordinates["z3"],ip)
             num=num+1
+    
+    def circleloop(self,coordinates):
+        id_list=[]
+        id_list=[t for t in range(len(self.tellos))]
+        num=0
+        
+        for tello_id in id_list:
+            sn = self.id2sn[tello_id]
+            ip = self.sn2ip[sn]
+            if num==0:
+                print(f'{str(num)}{str(ip)}')
+                print(f'{coordinates["x1"]},{coordinates["y1"]},{coordinates["z1"]}')
+                self.makeCircle(coordinates["x1"],coordinates["y1"],coordinates["z1"],ip)
+
+            elif num==1:
+                print(f'{str(num)}{str(ip)}')
+                print(f'{coordinates["x2"]},{coordinates["y2"]},{coordinates["z2"]}')
+                self.makeCircle(coordinates["x2"],coordinates["y2"],coordinates["z2"],ip)
+                
+            elif num==2:
+                print(f'{str(num)}{str(ip)}')
+                print(f'{coordinates["x3"]},{coordinates["y3"]},{coordinates["z3"]}')
+                self.makeCircle(coordinates["x3"],coordinates["y3"],coordinates["z3"],ip)
+            num=num+1
+
+
+    def makeCircle(self,x,y,z,ip):
+        x2=x*-1
+        y2=y*-1
+        z2=z*-1
+
+        self.manager.send_command("curve "+ str(x) + " " +str(y) + " " +str(z)
+                                  +" "+ str(x2)+ " " +str(y2) + " "+str(z2),ip)
 
     def moveENU(self,x,y,z,ip):
         x2=x*-1
         y2=y*-1
-        z2=y*-1
+        z2=z*-1
 
         if y>0:
             self.manager.send_command("forward "+str(y),ip)             
@@ -613,7 +666,7 @@ class Swarm(object):
     def moveNED(self,x,y,z,ip):
         y2=y*-1
         x2=x*-1
-        z2=x*-1
+        z2=z*-1
 
         if x>0:
             self.manager.send_command("forward "+str(x),ip)

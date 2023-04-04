@@ -1,0 +1,27 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2023-04-03 18:51:09.486421, end_time=2023-04-03 18:51:09.487967, duration=0.001546
+id=1, command=takeoff, response=None, start_time=2023-04-03 18:51:15.170703, end_time=None, duration=None
+id=2, command=forward 30, response=ok, start_time=2023-04-03 18:51:19.702578, end_time=2023-04-03 18:51:20.663374, duration=0.960796
+id=3, command=left 30, response=ok, start_time=2023-04-03 18:51:20.697127, end_time=2023-04-03 18:51:21.580984, duration=0.883857
+id=4, command=back 30, response=ok, start_time=2023-04-03 18:51:23.560949, end_time=2023-04-03 18:51:25.329729, duration=1.76878
+id=5, command=down 30, response=ok, start_time=2023-04-03 18:51:25.439276, end_time=2023-04-03 18:51:28.018271, duration=2.578995
+id=6, command=right 30, response=error Motor stop, start_time=2023-04-03 18:51:50.517241, end_time=2023-04-03 18:51:50.608535, duration=0.091294
+id=7, command=up 30, response=error, start_time=2023-04-03 18:51:50.824923, end_time=2023-04-03 18:52:13.951825, duration=23.126902
+id=8, command=land, response=ok, start_time=2023-04-03 18:52:14.114418, end_time=2023-04-03 18:52:14.539156, duration=0.424738
+------
+Drone: 2
+id=0, command=command, response=ok, start_time=2023-04-03 18:51:09.486421, end_time=2023-04-03 18:51:09.497969, duration=0.011548
+id=1, command=takeoff, response=ok, start_time=2023-04-03 18:51:15.068686, end_time=2023-04-03 18:51:23.632506, duration=8.56382
+id=2, command=land, response=ok, start_time=2023-04-03 18:52:13.991322, end_time=2023-04-03 18:52:14.424385, duration=0.433063
+------
+Drone: 3
+id=0, command=command, response=ok, start_time=2023-04-03 18:51:09.485422, end_time=2023-04-03 18:51:09.537243, duration=0.051821
+id=1, command=takeoff, response=None, start_time=2023-04-03 18:51:14.904120, end_time=None, duration=None
+id=2, command=back 30, response=error Not joystick, start_time=2023-04-03 18:51:18.272857, end_time=2023-04-03 18:51:18.791890, duration=0.519033
+id=3, command=right 30, response=error Not joystick, start_time=2023-04-03 18:51:18.941777, end_time=2023-04-03 18:51:19.447721, duration=0.505944
+id=4, command=forward 30, response=ok, start_time=2023-04-03 18:51:21.755057, end_time=2023-04-03 18:51:22.213195, duration=0.458138
+id=5, command=up 30, response=ok, start_time=2023-04-03 18:51:22.295404, end_time=2023-04-03 18:51:23.205478, duration=0.910074
+id=6, command=left 30, response=ok, start_time=2023-04-03 18:51:28.130064, end_time=2023-04-03 18:51:30.089534, duration=1.95947
+id=7, command=down 30, response=error, start_time=2023-04-03 18:51:30.221174, end_time=2023-04-03 18:52:13.943812, duration=43.722638
+id=8, command=land, response=ok, start_time=2023-04-03 18:52:13.957187, end_time=2023-04-03 18:52:14.484139, duration=0.526952
