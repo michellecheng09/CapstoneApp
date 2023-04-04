@@ -549,9 +549,12 @@ class Swarm(object):
         """
         coordinates={}
 
-        coordinates.update([('x1',self.home_x),('y1',self.home_y-30),('z1',self.home_z+30),
-                            ('x2',self.home_x),('y2',self.home_y),('z2',self.home_z),
-                            ('x3',self.home_x),('y3',self.home_y+30),('z3',self.home_z+30)])
+        coordinates.update([('x1_1',self.home_x),('y1_1',self.home_y-30),('z1_1',self.home_z+30),
+                            ('x1_2',self.home_x),('y1_2',self.home_y-100),('z1_2',self.home_z+30),
+                            ('x2_1',self.home_x),('y2_1',self.home_y),('z2_1',self.home_z),
+                            ('x2_2',self.home_x),('y2_2',self.home_y),('z2_2',self.home_z),
+                            ('x3_1',self.home_x),('y3_1',self.home_y+30),('z3_1',self.home_z+30),
+                            ('x3_2',self.home_x),('y3_2',self.home_y+100),('z3_2',self.home_z+30)])
         
         self.circleloop(coordinates)
 
@@ -621,27 +624,36 @@ class Swarm(object):
             if num==0:
                 print(f'{str(num)}{str(ip)}')
                 print(f'{coordinates["x1"]},{coordinates["y1"]},{coordinates["z1"]}')
-                self.makeCircle(coordinates["x1"],coordinates["y1"],coordinates["z1"],ip)
+                self.makeCircle(coordinates["x1_1"],coordinates["y1_1"],coordinates["z1_1"],
+                                coordinates["x1_2"],coordinates["y1_2"],coordinates["z1_2"],ip)
 
             elif num==1:
                 print(f'{str(num)}{str(ip)}')
-                print(f'{coordinates["x2"]},{coordinates["y2"]},{coordinates["z2"]}')
-                self.makeCircle(coordinates["x2"],coordinates["y2"],coordinates["z2"],ip)
+                print(f'{coordinates["x2_1"]},{coordinates["y2_1"]},{coordinates["z2_1"]}')
+                self.makeCircle(coordinates["x2_1"],coordinates["y2_1"],coordinates["z2_1"],
+                                coordinates["x2_2"],coordinates["y2_2"],coordinates["z2_2"],ip)
                 
             elif num==2:
                 print(f'{str(num)}{str(ip)}')
                 print(f'{coordinates["x3"]},{coordinates["y3"]},{coordinates["z3"]}')
-                self.makeCircle(coordinates["x3"],coordinates["y3"],coordinates["z3"],ip)
+                self.makeCircle(coordinates["x3_1"],coordinates["y3_1"],coordinates["z3_1"],
+                                coordinates["x3_2"],coordinates["y3_2"],coordinates["z3_2"],ip)
             num=num+1
 
 
-    def makeCircle(self,x,y,z,ip):
-        x2=x*-1
-        y2=y*-1
-        z2=z*-1
+    def makeCircle(self,x,y,z,x1,y1,z1,ip):
+        x2_1=x*-1
+        y2_1=y*-1
+        z2_1=z*-1
+        x2_2=x1*-1
+        y2_2=y1*-1
+        z2_2=z1*-1
 
         self.manager.send_command("curve "+ str(x) + " " +str(y) + " " +str(z)
-                                  +" "+ str(x2)+ " " +str(y2) + " "+str(z2),ip)
+                                  +" "+ str(x1)+ " " +str(y1) + " "+str(z1),ip)
+        
+        self.manager.send_command("curve "+ str(x2_1) + " " +str(y2_1) + " " +str(z2_1)
+                                  +" "+ str(x2_2)+ " " +str(y2_2) + " "+str(z2_2),ip)
 
     def moveENU(self,x,y,z,ip):
         x2=x*-1
