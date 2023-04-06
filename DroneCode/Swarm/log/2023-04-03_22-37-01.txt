@@ -1,0 +1,1765 @@
+------
+Drone: 1
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.351619, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.412213, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.429802, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.466643, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.553420, end_time=None, duration=None
+------
+Drone: 2
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.352498, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.412213, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.430799, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.467647, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.553420, end_time=None, duration=None
+------
+Drone: 3
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.352498, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.412213, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.430799, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.467647, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.553420, end_time=None, duration=None
+------
+Drone: 4
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.352498, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.412213, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.430799, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.467647, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.553420, end_time=None, duration=None
+------
+Drone: 5
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.352498, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.412213, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.430799, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.467647, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.553420, end_time=None, duration=None
+------
+Drone: 6
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.352498, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.412213, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.430799, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.467647, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.553420, end_time=None, duration=None
+------
+Drone: 7
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.353495, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.412213, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.430799, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.467647, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.553420, end_time=None, duration=None
+------
+Drone: 8
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.353495, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.412213, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.430799, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.468123, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.553420, end_time=None, duration=None
+------
+Drone: 9
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.353495, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.412213, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.430799, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.468123, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.553420, end_time=None, duration=None
+------
+Drone: 10
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.353495, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.412213, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.430799, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.468639, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.553420, end_time=None, duration=None
+------
+Drone: 11
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.353495, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.412213, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.430799, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.468639, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.554368, end_time=None, duration=None
+------
+Drone: 12
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.353495, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.413209, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.430799, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.468639, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.554368, end_time=None, duration=None
+------
+Drone: 13
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.354499, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.413209, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.430799, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.468639, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.554368, end_time=None, duration=None
+------
+Drone: 14
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.355029, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.413209, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.430799, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.468639, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.554368, end_time=None, duration=None
+------
+Drone: 15
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.355151, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.413209, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.431793, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.468639, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.554368, end_time=None, duration=None
+------
+Drone: 16
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.355151, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.413209, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.431793, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.468639, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.554368, end_time=None, duration=None
+------
+Drone: 17
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.355151, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.413209, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.431793, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.468639, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.554368, end_time=None, duration=None
+------
+Drone: 18
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.356061, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.413209, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.431793, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.468639, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.554368, end_time=None, duration=None
+------
+Drone: 19
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.356277, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.413209, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.431793, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.468639, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.554368, end_time=None, duration=None
+------
+Drone: 20
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.356277, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.413547, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.431793, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.468639, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.554368, end_time=None, duration=None
+------
+Drone: 21
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.356596, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.413547, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.432420, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.468639, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.554368, end_time=None, duration=None
+------
+Drone: 22
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.356596, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.413547, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.432420, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.468639, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.554368, end_time=None, duration=None
+------
+Drone: 23
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.356596, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.413547, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.432420, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.469640, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.554368, end_time=None, duration=None
+------
+Drone: 24
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.357200, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.413547, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.432420, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.469640, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.554368, end_time=None, duration=None
+------
+Drone: 25
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.357200, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.413547, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.432786, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.469640, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.554368, end_time=None, duration=None
+------
+Drone: 26
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.357200, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.413547, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.432786, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.469640, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.554368, end_time=None, duration=None
+------
+Drone: 27
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.357200, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.413547, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.432786, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.469640, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.554368, end_time=None, duration=None
+------
+Drone: 28
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.357200, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.413547, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.432786, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.469640, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.554368, end_time=None, duration=None
+------
+Drone: 29
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.358198, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.413547, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.432786, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.469640, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.554368, end_time=None, duration=None
+------
+Drone: 30
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.358198, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.413547, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.432786, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.469640, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.554368, end_time=None, duration=None
+------
+Drone: 31
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.358198, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.413547, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.432786, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.469640, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.554368, end_time=None, duration=None
+------
+Drone: 32
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.358198, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.413547, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.432786, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.469640, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.554368, end_time=None, duration=None
+------
+Drone: 33
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.359214, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.413547, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.432786, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.469640, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.554368, end_time=None, duration=None
+------
+Drone: 34
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.359479, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.413547, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.433270, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.469640, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.554368, end_time=None, duration=None
+------
+Drone: 35
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.359528, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.414210, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.433270, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.469640, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.554368, end_time=None, duration=None
+------
+Drone: 36
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.359528, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.414210, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.433270, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.469640, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.554368, end_time=None, duration=None
+------
+Drone: 37
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.359528, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.414210, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.433270, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.469640, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.555361, end_time=None, duration=None
+------
+Drone: 38
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.360758, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.414210, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.433270, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.469640, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.555361, end_time=None, duration=None
+------
+Drone: 39
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.360758, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.414210, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.433270, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.469640, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.555361, end_time=None, duration=None
+------
+Drone: 40
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.361673, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.414210, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.433270, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.469640, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.555361, end_time=None, duration=None
+------
+Drone: 41
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.361673, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.414210, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.433785, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.469640, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.555361, end_time=None, duration=None
+------
+Drone: 42
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.362173, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.414210, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.433785, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.469640, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.555361, end_time=None, duration=None
+------
+Drone: 43
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.362173, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.414210, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.433785, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.469640, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.555361, end_time=None, duration=None
+------
+Drone: 44
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.362173, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.414210, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.433785, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.469640, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.555361, end_time=None, duration=None
+------
+Drone: 45
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.363111, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.414210, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.433785, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.469640, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.555361, end_time=None, duration=None
+------
+Drone: 46
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.363111, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.414210, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.433785, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.470638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.555361, end_time=None, duration=None
+------
+Drone: 47
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.363111, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.414210, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.433785, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.470638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.555361, end_time=None, duration=None
+------
+Drone: 48
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.363111, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.414210, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.433785, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.470638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.555361, end_time=None, duration=None
+------
+Drone: 49
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.363111, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.414210, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.433785, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.470638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.555361, end_time=None, duration=None
+------
+Drone: 50
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.364112, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.414210, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.433785, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.470638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.555361, end_time=None, duration=None
+------
+Drone: 51
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.364112, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.414210, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.433785, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.470638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.555361, end_time=None, duration=None
+------
+Drone: 52
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.364112, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.414210, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.433785, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.470638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.555361, end_time=None, duration=None
+------
+Drone: 53
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.364112, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.414210, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.434792, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.470638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.555361, end_time=None, duration=None
+------
+Drone: 54
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.364112, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.414210, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.434792, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.470638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.556343, end_time=None, duration=None
+------
+Drone: 55
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.365540, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.414210, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.434792, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.470638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.556343, end_time=None, duration=None
+------
+Drone: 56
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.365570, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.414210, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.434792, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.470638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.556343, end_time=None, duration=None
+------
+Drone: 57
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.365570, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.414210, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.434792, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.470638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.556343, end_time=None, duration=None
+------
+Drone: 58
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.365570, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.414210, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.434792, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.470638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.556343, end_time=None, duration=None
+------
+Drone: 59
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.366485, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.415220, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.434792, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.470638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.556343, end_time=None, duration=None
+------
+Drone: 60
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.366485, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.415220, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.434792, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.470638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.556343, end_time=None, duration=None
+------
+Drone: 61
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.366485, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.415220, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.434792, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.470638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.556343, end_time=None, duration=None
+------
+Drone: 62
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.366485, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.415220, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.434792, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.470638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.556343, end_time=None, duration=None
+------
+Drone: 63
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.366485, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.415220, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.434792, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.470638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.556343, end_time=None, duration=None
+------
+Drone: 64
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.367508, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.415220, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.434792, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.470638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.556874, end_time=None, duration=None
+------
+Drone: 65
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.367508, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.415220, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.434792, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.470638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.556968, end_time=None, duration=None
+------
+Drone: 66
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.367508, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.415220, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.434792, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.470638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.556968, end_time=None, duration=None
+------
+Drone: 67
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.367508, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.415220, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.434792, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.470638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.556968, end_time=None, duration=None
+------
+Drone: 68
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.368500, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.415220, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.434792, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.470638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.556968, end_time=None, duration=None
+------
+Drone: 69
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.368500, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.415220, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.434792, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.470638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.556968, end_time=None, duration=None
+------
+Drone: 70
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.368500, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.415220, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.434792, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.471637, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.556968, end_time=None, duration=None
+------
+Drone: 71
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.368500, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.415220, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.435787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.471637, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.556968, end_time=None, duration=None
+------
+Drone: 72
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.369515, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.415220, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.435787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.471637, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.556968, end_time=None, duration=None
+------
+Drone: 73
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.369515, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.415220, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.435787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.471637, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.556968, end_time=None, duration=None
+------
+Drone: 74
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.369515, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.415220, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.435787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.471637, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.556968, end_time=None, duration=None
+------
+Drone: 75
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.369515, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.415220, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.435787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.471637, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.556968, end_time=None, duration=None
+------
+Drone: 76
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.370576, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.415220, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.435787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.471637, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.556968, end_time=None, duration=None
+------
+Drone: 77
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.370668, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.415220, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.435787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.471637, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.556968, end_time=None, duration=None
+------
+Drone: 78
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.370668, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.415220, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.435787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.471637, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.556968, end_time=None, duration=None
+------
+Drone: 79
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.371413, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.415220, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.435787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.471637, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.556968, end_time=None, duration=None
+------
+Drone: 80
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.371413, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.416218, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.435787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.471637, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.556968, end_time=None, duration=None
+------
+Drone: 81
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.371413, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.416218, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.435787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.471637, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.556968, end_time=None, duration=None
+------
+Drone: 82
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.372300, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.416218, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.435787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.471637, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.556968, end_time=None, duration=None
+------
+Drone: 83
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.372300, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.416218, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.435787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.471637, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.557912, end_time=None, duration=None
+------
+Drone: 84
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.372300, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.416218, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.435787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.471637, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.557912, end_time=None, duration=None
+------
+Drone: 85
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.372300, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.416218, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.435787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.472638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.557912, end_time=None, duration=None
+------
+Drone: 86
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.372300, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.416218, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.435787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.472638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.557912, end_time=None, duration=None
+------
+Drone: 87
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.372300, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.416218, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.435787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.472638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.557912, end_time=None, duration=None
+------
+Drone: 88
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.373315, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.416218, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.436787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.472638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.558325, end_time=None, duration=None
+------
+Drone: 89
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.373315, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.416218, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.436787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.472638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.558403, end_time=None, duration=None
+------
+Drone: 90
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.373642, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.416218, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.436787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.472638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.558472, end_time=None, duration=None
+------
+Drone: 91
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.373642, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.416218, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.436787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.472638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.558472, end_time=None, duration=None
+------
+Drone: 92
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.373642, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.416218, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.436787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.472638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.558472, end_time=None, duration=None
+------
+Drone: 93
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.373642, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.416218, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.436787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.472638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.558472, end_time=None, duration=None
+------
+Drone: 94
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.373642, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.416218, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.436787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.472638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.558472, end_time=None, duration=None
+------
+Drone: 95
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.374303, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.416218, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.436787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.472638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.558472, end_time=None, duration=None
+------
+Drone: 96
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.374303, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.416218, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.436787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.472638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.558472, end_time=None, duration=None
+------
+Drone: 97
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.374303, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.416218, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.437415, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.472638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.558472, end_time=None, duration=None
+------
+Drone: 98
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.374303, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.416218, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.437415, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.472638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.558472, end_time=None, duration=None
+------
+Drone: 99
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.374817, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.417212, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.437415, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.472638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.558472, end_time=None, duration=None
+------
+Drone: 100
+id=0, command=command, response=ok, start_time=2023-04-03 22:36:39.374848, end_time=2023-04-03 22:36:39.402631, duration=0.027783
+id=1, command=land, response=None, start_time=2023-04-03 22:37:01.090165, end_time=None, duration=None
+------
+Drone: 101
+id=0, command=command, response=ok, start_time=2023-04-03 22:36:39.374988, end_time=2023-04-03 22:36:39.392936, duration=0.017948
+id=1, command=land, response=error, start_time=2023-04-03 22:37:01.005226, end_time=2023-04-03 22:37:01.022394, duration=0.017168
+------
+Drone: 102
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.374988, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.417212, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.437415, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.472638, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.558472, end_time=None, duration=None
+------
+Drone: 103
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.374988, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.417212, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.437415, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.473637, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.558472, end_time=None, duration=None
+------
+Drone: 104
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.374988, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.417212, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.437415, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.473637, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.558472, end_time=None, duration=None
+------
+Drone: 105
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.375856, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.417212, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.437787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.473637, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.559371, end_time=None, duration=None
+------
+Drone: 106
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.375856, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.417212, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.437787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.473637, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.559371, end_time=None, duration=None
+------
+Drone: 107
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.375856, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.417212, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.437787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.473637, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.559371, end_time=None, duration=None
+------
+Drone: 108
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.375856, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.417212, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.437787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.473941, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.559371, end_time=None, duration=None
+------
+Drone: 109
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.375856, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.417212, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.437787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.473941, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.559371, end_time=None, duration=None
+------
+Drone: 110
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.375856, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.417212, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.437787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.473941, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.559371, end_time=None, duration=None
+------
+Drone: 111
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.375856, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.417212, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.437787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.473941, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.559371, end_time=None, duration=None
+------
+Drone: 112
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.375856, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.417212, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.437787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.473941, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.559371, end_time=None, duration=None
+------
+Drone: 113
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.376896, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.417212, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.437787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.473941, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.559371, end_time=None, duration=None
+------
+Drone: 114
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.376896, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.417212, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.437787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.473941, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.559371, end_time=None, duration=None
+------
+Drone: 115
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.376896, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.417212, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.437787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.473941, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.559371, end_time=None, duration=None
+------
+Drone: 116
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.376896, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.417212, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.437787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.473941, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.559371, end_time=None, duration=None
+------
+Drone: 117
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.376896, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.417212, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.437787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.473941, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.559371, end_time=None, duration=None
+------
+Drone: 118
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.376896, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.417212, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.437787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.476637, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.559371, end_time=None, duration=None
+------
+Drone: 119
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.376896, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.417212, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.437787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.477807, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.559371, end_time=None, duration=None
+------
+Drone: 120
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.377858, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.417212, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.437787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.477807, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.559371, end_time=None, duration=None
+------
+Drone: 121
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.378173, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.417212, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.437787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.477807, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.559371, end_time=None, duration=None
+------
+Drone: 122
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.378173, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.418212, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.437787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.477807, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.560371, end_time=None, duration=None
+------
+Drone: 123
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.378173, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.418212, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.437787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.477807, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.560371, end_time=None, duration=None
+------
+Drone: 124
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.378173, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.418337, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.437787, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.477807, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.560457, end_time=None, duration=None
+------
+Drone: 125
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.378894, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.418337, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.438782, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.477807, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.560491, end_time=None, duration=None
+------
+Drone: 126
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.378894, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.418337, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.438782, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.477807, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.560491, end_time=None, duration=None
+------
+Drone: 127
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.379910, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.418337, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.438782, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.477807, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.560491, end_time=None, duration=None
+------
+Drone: 128
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.380320, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.418337, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.438782, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.477807, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.560491, end_time=None, duration=None
+------
+Drone: 129
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.380320, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.418337, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.438782, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.477807, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.560491, end_time=None, duration=None
+------
+Drone: 130
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.380969, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.418337, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.438782, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.477807, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.560491, end_time=None, duration=None
+------
+Drone: 131
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.380969, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.418337, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.438782, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.477807, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.560491, end_time=None, duration=None
+------
+Drone: 132
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.380969, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.418337, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.438782, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.477807, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.560491, end_time=None, duration=None
+------
+Drone: 133
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.380969, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.418337, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.438782, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.477807, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.560491, end_time=None, duration=None
+------
+Drone: 134
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.380969, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.418337, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.438782, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.477807, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.560491, end_time=None, duration=None
+------
+Drone: 135
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.380969, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.418337, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.438782, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.477807, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.560491, end_time=None, duration=None
+------
+Drone: 136
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.381930, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.418337, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.438782, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.477807, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.560491, end_time=None, duration=None
+------
+Drone: 137
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.381930, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.418337, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.438782, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.477807, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.560491, end_time=None, duration=None
+------
+Drone: 138
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.381930, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.418337, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.438782, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.477807, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.560491, end_time=None, duration=None
+------
+Drone: 139
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.381930, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.418337, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.438782, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.477807, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.560491, end_time=None, duration=None
+------
+Drone: 140
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.381930, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.418337, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.438782, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.478636, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.560491, end_time=None, duration=None
+------
+Drone: 141
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.381930, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.418337, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.438782, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.478636, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.560491, end_time=None, duration=None
+------
+Drone: 142
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.381930, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.418337, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.438782, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.478636, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.560491, end_time=None, duration=None
+------
+Drone: 143
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.382981, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.418337, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.438782, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.478636, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.560491, end_time=None, duration=None
+------
+Drone: 144
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.382981, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.418337, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.438782, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.478636, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.560491, end_time=None, duration=None
+------
+Drone: 145
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.382981, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.419209, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.438782, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.478636, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.560491, end_time=None, duration=None
+------
+Drone: 146
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.382981, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.419209, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.438782, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.478636, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.560491, end_time=None, duration=None
+------
+Drone: 147
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.382981, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.419209, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.439781, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.478636, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.560491, end_time=None, duration=None
+------
+Drone: 148
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.383750, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.419209, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.439781, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.478636, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.560491, end_time=None, duration=None
+------
+Drone: 149
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.383913, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.419209, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.439781, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.478636, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.561488, end_time=None, duration=None
+------
+Drone: 150
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.383913, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.419209, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.439781, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.478636, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.561488, end_time=None, duration=None
+------
+Drone: 151
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.383913, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.419209, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.439781, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.478636, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.561488, end_time=None, duration=None
+------
+Drone: 152
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.383913, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.419209, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.439781, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.478636, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.561488, end_time=None, duration=None
+------
+Drone: 153
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.383913, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.419209, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.439781, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.478636, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.562708, end_time=None, duration=None
+------
+Drone: 154
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.383913, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.419209, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.439781, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.478636, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.562708, end_time=None, duration=None
+------
+Drone: 155
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.383913, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.419209, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.439781, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.478636, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.562708, end_time=None, duration=None
+------
+Drone: 156
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.384967, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.419209, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.439781, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.478636, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.562708, end_time=None, duration=None
+------
+Drone: 157
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.384967, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.419209, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.439781, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.478636, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.562708, end_time=None, duration=None
+------
+Drone: 158
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.384967, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.419209, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.439781, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.478636, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.562708, end_time=None, duration=None
+------
+Drone: 159
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.385505, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.419209, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.439781, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.478636, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.562708, end_time=None, duration=None
+------
+Drone: 160
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.385505, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.419209, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.439781, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.478636, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.562708, end_time=None, duration=None
+------
+Drone: 161
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.385505, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.419209, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.439781, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.478636, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.562708, end_time=None, duration=None
+------
+Drone: 162
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.385919, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.419209, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.439781, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.478636, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.562708, end_time=None, duration=None
+------
+Drone: 163
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.386058, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.419209, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.439781, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.478636, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.562708, end_time=None, duration=None
+------
+Drone: 164
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.386058, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.419209, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.439781, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.479634, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.562708, end_time=None, duration=None
+------
+Drone: 165
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.386058, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.419209, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.439781, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.479634, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.563707, end_time=None, duration=None
+------
+Drone: 166
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.386058, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.420211, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.439781, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.479634, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.563707, end_time=None, duration=None
+------
+Drone: 167
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.386058, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.420211, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.439781, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.479634, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.563707, end_time=None, duration=None
+------
+Drone: 168
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.386058, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.420211, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.439781, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.479634, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.563707, end_time=None, duration=None
+------
+Drone: 169
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.386058, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.420211, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.439781, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.479634, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.563707, end_time=None, duration=None
+------
+Drone: 170
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.386058, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.420211, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.440828, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.479634, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.563707, end_time=None, duration=None
+------
+Drone: 171
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.386959, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.420211, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.440828, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.479634, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.563707, end_time=None, duration=None
+------
+Drone: 172
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.386959, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.420211, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.440948, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.479634, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.563707, end_time=None, duration=None
+------
+Drone: 173
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.386959, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.420211, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.440948, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.479634, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.563707, end_time=None, duration=None
+------
+Drone: 174
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.386959, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.420211, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.440948, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.479634, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.563707, end_time=None, duration=None
+------
+Drone: 175
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.386959, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.420211, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.440948, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.479634, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.563707, end_time=None, duration=None
+------
+Drone: 176
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.386959, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.420211, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.440948, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.479634, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.563707, end_time=None, duration=None
+------
+Drone: 177
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.386959, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.420211, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.440948, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.479634, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.563707, end_time=None, duration=None
+------
+Drone: 178
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.387918, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.420211, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.440948, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.479634, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.564713, end_time=None, duration=None
+------
+Drone: 179
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.387918, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.420211, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.441536, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.479634, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.564713, end_time=None, duration=None
+------
+Drone: 180
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.387918, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.421041, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.441536, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.479634, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.564713, end_time=None, duration=None
+------
+Drone: 181
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.387918, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.421041, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.441857, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.479634, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.564713, end_time=None, duration=None
+------
+Drone: 182
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.387918, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.421041, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.442228, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.479634, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.564713, end_time=None, duration=None
+------
+Drone: 183
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.387918, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.421041, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.442228, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.479634, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.565260, end_time=None, duration=None
+------
+Drone: 184
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.387918, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.421041, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.442228, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.479634, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.565349, end_time=None, duration=None
+------
+Drone: 185
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.388949, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.421041, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.442228, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.479634, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.565349, end_time=None, duration=None
+------
+Drone: 186
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.388949, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.421041, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.442228, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.480634, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.565523, end_time=None, duration=None
+------
+Drone: 187
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.388949, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.421041, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.442228, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.480634, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.565523, end_time=None, duration=None
+------
+Drone: 188
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.388949, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.421041, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.442228, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.480634, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.565523, end_time=None, duration=None
+------
+Drone: 189
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.388949, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.421041, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.442859, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.480634, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.565523, end_time=None, duration=None
+------
+Drone: 190
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.388949, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.421041, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.442859, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.480870, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.565523, end_time=None, duration=None
+------
+Drone: 191
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.388949, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.421041, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.443117, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.480870, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.565523, end_time=None, duration=None
+------
+Drone: 192
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.389915, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.421041, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.443117, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.480870, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.565523, end_time=None, duration=None
+------
+Drone: 193
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.389915, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.421041, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.443117, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.480870, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.565523, end_time=None, duration=None
+------
+Drone: 194
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.389915, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.421041, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.443117, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.480870, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.566299, end_time=None, duration=None
+------
+Drone: 195
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.389915, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.422006, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.443117, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.480870, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.566299, end_time=None, duration=None
+------
+Drone: 196
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.390363, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.422006, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.443117, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.480870, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.566299, end_time=None, duration=None
+------
+Drone: 197
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.390445, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.422006, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.443117, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.480870, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.566299, end_time=None, duration=None
+------
+Drone: 198
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.390445, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.422006, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.443117, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.480870, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.566299, end_time=None, duration=None
+------
+Drone: 199
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.390445, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.422006, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.443117, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.480870, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.566299, end_time=None, duration=None
+------
+Drone: 200
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.390445, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.422006, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.443117, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.480870, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.566299, end_time=None, duration=None
+------
+Drone: 201
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.390445, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.422006, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.443855, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.480870, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.566299, end_time=None, duration=None
+------
+Drone: 202
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.390445, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.422006, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.443855, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.480870, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.566299, end_time=None, duration=None
+------
+Drone: 203
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.390445, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.422006, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.443855, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.480870, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.567301, end_time=None, duration=None
+------
+Drone: 204
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.390445, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.422006, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.443855, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.480870, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.567301, end_time=None, duration=None
+------
+Drone: 205
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.391439, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.422006, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.443855, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.480870, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.567301, end_time=None, duration=None
+------
+Drone: 206
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.391439, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.422006, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.443855, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.480870, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.567301, end_time=None, duration=None
+------
+Drone: 207
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.391635, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.422006, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.443855, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.480870, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.567301, end_time=None, duration=None
+------
+Drone: 208
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.391635, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.422006, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.443855, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.481894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.567301, end_time=None, duration=None
+------
+Drone: 209
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.391635, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.422006, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.443855, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.481894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.567301, end_time=None, duration=None
+------
+Drone: 210
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.391635, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.422006, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.443855, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.481894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.567301, end_time=None, duration=None
+------
+Drone: 211
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.391635, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.422006, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.443855, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.481894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.567301, end_time=None, duration=None
+------
+Drone: 212
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.391635, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.422006, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.443855, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.481894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.567301, end_time=None, duration=None
+------
+Drone: 213
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.392676, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.422006, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.444854, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.481894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.567301, end_time=None, duration=None
+------
+Drone: 214
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.393172, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.422006, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.444854, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.481894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.567301, end_time=None, duration=None
+------
+Drone: 215
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.393172, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.422006, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.444854, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.481894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.567301, end_time=None, duration=None
+------
+Drone: 216
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.393172, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.422006, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.444854, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.481894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.568307, end_time=None, duration=None
+------
+Drone: 217
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.393172, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.422006, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.444854, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.481894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.568307, end_time=None, duration=None
+------
+Drone: 218
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.393781, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.423009, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.444854, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.481894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.568307, end_time=None, duration=None
+------
+Drone: 219
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.393781, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.423009, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.444854, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.481894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.568307, end_time=None, duration=None
+------
+Drone: 220
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.393781, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.423009, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.444854, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.481894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.568307, end_time=None, duration=None
+------
+Drone: 221
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.393781, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.423009, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.444854, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.481894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.568307, end_time=None, duration=None
+------
+Drone: 222
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.393781, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.423009, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.444854, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.481894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.568885, end_time=None, duration=None
+------
+Drone: 223
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.393781, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.423009, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.444854, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.481894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.568885, end_time=None, duration=None
+------
+Drone: 224
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.393781, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.423009, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.445855, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.481894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.568885, end_time=None, duration=None
+------
+Drone: 225
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.393781, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.423009, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.445855, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.481894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.568885, end_time=None, duration=None
+------
+Drone: 226
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.393781, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.423009, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.445855, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.481894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.568885, end_time=None, duration=None
+------
+Drone: 227
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.394829, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.423009, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.445855, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.481894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.568885, end_time=None, duration=None
+------
+Drone: 228
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.394829, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.423009, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.445855, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.481894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.568885, end_time=None, duration=None
+------
+Drone: 229
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.394829, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.423009, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.445855, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.482894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.568885, end_time=None, duration=None
+------
+Drone: 230
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.394829, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.423009, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.445855, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.482894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.568885, end_time=None, duration=None
+------
+Drone: 231
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.394829, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.423009, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.445855, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.482894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.568885, end_time=None, duration=None
+------
+Drone: 232
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.395436, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.423009, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.445855, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.482894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.568885, end_time=None, duration=None
+------
+Drone: 233
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.395436, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.423009, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.445855, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.482894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.568885, end_time=None, duration=None
+------
+Drone: 234
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.395436, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.423009, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.445855, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.482894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.568885, end_time=None, duration=None
+------
+Drone: 235
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.395436, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.423009, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.445855, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.482894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.568885, end_time=None, duration=None
+------
+Drone: 236
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.395980, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.423009, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.445855, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.482894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.569888, end_time=None, duration=None
+------
+Drone: 237
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.395980, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.423009, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.447105, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.482894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.569888, end_time=None, duration=None
+------
+Drone: 238
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.395980, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.423009, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.447105, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.482894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.569888, end_time=None, duration=None
+------
+Drone: 239
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.395980, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.424001, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.447105, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.482894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.570150, end_time=None, duration=None
+------
+Drone: 240
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.395980, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.424001, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.447853, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.482894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.570220, end_time=None, duration=None
+------
+Drone: 241
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.395980, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.424001, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.447853, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.482894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.570220, end_time=None, duration=None
+------
+Drone: 242
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.395980, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.424001, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.447853, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.482894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.570220, end_time=None, duration=None
+------
+Drone: 243
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.395980, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.424001, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.447853, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.482894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.570220, end_time=None, duration=None
+------
+Drone: 244
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.395980, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.424001, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.447853, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.482894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.570220, end_time=None, duration=None
+------
+Drone: 245
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.397024, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.424001, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.447853, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.482894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.570220, end_time=None, duration=None
+------
+Drone: 246
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.397024, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.424001, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.447853, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.482894, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.570220, end_time=None, duration=None
+------
+Drone: 247
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.397024, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.424001, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.447853, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.484893, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.570753, end_time=None, duration=None
+------
+Drone: 248
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.397024, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.424001, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.447853, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.484893, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.570792, end_time=None, duration=None
+------
+Drone: 249
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.397024, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.424001, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.447853, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.485903, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.570863, end_time=None, duration=None
+------
+Drone: 250
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.397024, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.424001, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.447853, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.485903, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.570863, end_time=None, duration=None
+------
+Drone: 251
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.397024, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.424001, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.447853, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.485903, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.570863, end_time=None, duration=None
+------
+Drone: 252
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.397024, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.424001, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.447853, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.485903, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.570863, end_time=None, duration=None
+------
+Drone: 253
+id=0, command=command, response=None, start_time=2023-04-03 22:36:39.397024, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2023-04-03 22:36:44.424001, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2023-04-03 22:36:49.448857, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2023-04-03 22:36:54.485903, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2023-04-03 22:36:59.570863, end_time=None, duration=None

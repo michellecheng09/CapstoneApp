@@ -1,0 +1,18 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2023-04-04 01:51:59.959194, end_time=2023-04-04 01:51:59.976308, duration=0.017114
+id=1, command=takeoff, response=ok, start_time=2023-04-04 01:52:05.590300, end_time=2023-04-04 01:52:11.922213, duration=6.331913
+id=2, command=land, response=ok, start_time=2023-04-04 01:52:51.513321, end_time=2023-04-04 01:52:51.885718, duration=0.372397
+------
+Drone: 2
+id=0, command=command, response=ok, start_time=2023-04-04 01:51:59.959194, end_time=2023-04-04 01:51:59.999585, duration=0.040391
+id=1, command=takeoff, response=error Radius is too large!, start_time=2023-04-04 01:52:05.496602, end_time=2023-04-04 01:52:10.877476, duration=5.380874
+id=2, command=curve 0 30 30 0 60 30 30, response=ok, start_time=2023-04-04 01:52:10.877476, end_time=2023-04-04 01:52:11.671427, duration=0.793951
+id=3, command=curve 0 -30 -30 0 -60 -30 30, response=error, start_time=2023-04-04 01:52:11.797577, end_time=2023-04-04 01:52:51.947640, duration=40.150063
+id=4, command=land, response=ok, start_time=2023-04-04 01:52:51.978526, end_time=2023-04-04 01:52:52.587479, duration=0.608953
+------
+Drone: 3
+id=0, command=command, response=ok, start_time=2023-04-04 01:51:59.959194, end_time=2023-04-04 01:52:00.004587, duration=0.045393
+id=1, command=takeoff, response=ok, start_time=2023-04-04 01:52:05.777009, end_time=2023-04-04 01:52:12.249020, duration=6.472011
+id=2, command=curve 30 0 30 100 0 30 30, response=None, start_time=2023-04-04 01:52:32.357064, end_time=None, duration=None
+id=3, command=land, response=error, start_time=2023-04-04 01:52:52.695431, end_time=2023-04-04 01:52:52.727386, duration=0.031955

@@ -1,0 +1,19 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2023-04-04 01:58:04.646417, end_time=2023-04-04 01:58:04.661783, duration=0.015366
+id=1, command=takeoff, response=ok, start_time=2023-04-04 01:58:10.333602, end_time=2023-04-04 01:58:15.394560, duration=5.060958
+id=2, command=curve 0 -30 30 0 -60 30 30, response=None, start_time=2023-04-04 01:59:21.794287, end_time=None, duration=None
+id=3, command=curve 0 30 -30 0 60 -30 30, response=error No valid imu, start_time=2023-04-04 01:59:42.030603, end_time=2023-04-04 01:59:42.232687, duration=0.202084
+id=4, command=land, response=None, start_time=2023-04-04 01:59:43.721084, end_time=None, duration=None
+------
+Drone: 2
+id=0, command=command, response=ok, start_time=2023-04-04 01:58:04.646417, end_time=2023-04-04 01:58:04.690154, duration=0.043737
+id=1, command=takeoff, response=ok, start_time=2023-04-04 01:58:10.223682, end_time=2023-04-04 01:58:18.847229, duration=8.623547
+id=2, command=curve 30 0 30 30 0 30 30, response=error Motor stop, start_time=2023-04-04 01:58:41.291109, end_time=2023-04-04 01:59:01.453970, duration=20.162861
+id=3, command=curve -30 0 -30 -30 0 -30 30, response=None, start_time=2023-04-04 01:59:01.453970, end_time=None, duration=None
+------
+Drone: 3
+id=0, command=command, response=ok, start_time=2023-04-04 01:58:04.646417, end_time=2023-04-04 01:58:04.696125, duration=0.049708
+id=1, command=takeoff, response=ok, start_time=2023-04-04 01:58:10.130817, end_time=2023-04-04 01:58:16.074068, duration=5.943251
+id=2, command=curve 0 30 30 0 30 30 30, response=error Three points are collinear!, start_time=2023-04-04 01:58:20.632389, end_time=2023-04-04 01:58:20.648351, duration=0.015962
+id=3, command=curve 0 -30 -30 0 -30 -30 30, response=None, start_time=2023-04-04 01:58:20.944200, end_time=None, duration=None

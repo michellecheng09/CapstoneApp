@@ -147,7 +147,7 @@ class Swarm(object):
         self.tellos = []
         self.pools = []
         self.sn2ip = {
-            '0TQZK7NED02VMT': '192.168.0.100',
+            '0TQZK7NED02VMT': '192.168.0.103',
             '0TQZK7JED02TVJ': '192.168.0.101',
             '0TQZK5DED02KHL': '192.168.0.102',
         }
@@ -157,7 +157,7 @@ class Swarm(object):
             2: '0TQZK5DED02KHL',
         }
         self.ip2id = {
-            '192.168.0.100': 0,
+            '192.168.0.103': 0,
             '192.168.0.101': 1,
             '192.168.0.102': 2,
         }
@@ -452,9 +452,9 @@ class Swarm(object):
         #Make horizontal line to vertical on x axis 
         coordinates={}
         
-        coordinates.update([('x1',self.home_x-30),('y1',self.home_y+30),('z1',self.home_z),
-                            ('x2',self.home_x),('y2',self.home_y),('z2',self.home_z),
-                            ('x3',self.home_x+30),('y3',self.home_y-30),('z3',self.home_z)])
+        coordinates.update([('x1',self.home_x-50),('y1',self.home_y+30),('z1',self.home_z),
+                            ('x2',self.home_x+20),('y2',self.home_y),('z2',self.home_z),
+                            ('x3',self.home_x+50),('y3',self.home_y-30),('z3',self.home_z)])
 
         self.loop(coordinates)
 
@@ -463,7 +463,7 @@ class Swarm(object):
         coordinates.clear()
         
         coordinates.update([('x1',self.home_x),('y1',self.home_y),('z1',self.home_z+30),
-                            ('x2',self.home_x),('y2',self.home_y),('z2',self.home_z),
+                            ('x2',self.home_x-20),('y2',self.home_y),('z2',self.home_z),
                             ('x3',self.home_x),('y3',self.home_y),('z3',self.home_z-30)])
 
         self.loop(coordinates)
@@ -472,8 +472,8 @@ class Swarm(object):
         coordinates.clear()
         
         coordinates.update([('x1',self.home_x),('y1',self.home_y-30),('z1',self.home_z),
-                            ('x2',self.home_x),('y2',self.home_y),('z2',self.home_z),
-                            ('x3',self.home_x),('y3',self.home_y)+30,('z3',self.home_z)])
+                            ('x2',self.home_x+20),('y2',self.home_y),('z2',self.home_z),
+                            ('x3',self.home_x),('y3',self.home_y+30),('z3',self.home_z)])
         
         self.loop(coordinates)
 
@@ -481,9 +481,9 @@ class Swarm(object):
 
         coordinates.clear()
         
-        coordinates.update([('x1',self.home_x+30),('y1',self.home_x),('z1',self.home_z-30),
-                            ('x2',self.home_x),('y2',self.home_y),('z2',self.home_z+0),
-                            ('x3',self.home_x-30),('y3',self.home_y),('z3',self.home_z+30)])
+        coordinates.update([('x1',self.home_x+50),('y1',self.home_x),('z1',self.home_z-30),
+                            ('x2',self.home_x-20),('y2',self.home_y),('z2',self.home_z),
+                            ('x3',self.home_x-50),('y3',self.home_y),('z3',self.home_z+30)])
 
         self.loop(coordinates)
         
@@ -496,9 +496,9 @@ class Swarm(object):
         #Make first wave 
         coordinates={}
         
-        coordinates.update([('x1',self.home_x),('y1',self.home_y),('z1',self.home_z+30),
-                            ('x2',self.home_x),('y2',self.home_y),('z2',self.home_z-30),
-                            ('x3',self.home_x),('y3',self.home_y),('z3',self.home_z+30)])
+        coordinates.update([('x1',self.home_x),('y1',self.home_y),('z1',self.home_z+60),
+                            ('x2',self.home_x),('y2',self.home_y),('z2',self.home_z-60),
+                            ('x3',self.home_x),('y3',self.home_y),('z3',self.home_z+60)])
 
         self.loop(coordinates)
 
@@ -525,7 +525,7 @@ class Swarm(object):
         Handles Triangle Formation
         Assume horizontal starting position
         """
-          #Make triangle
+        #Make triangle
 
         coordinates={}
         
@@ -549,12 +549,12 @@ class Swarm(object):
         """
         coordinates={}
 
-        coordinates.update([('x1_1',self.home_x),('y1_1',self.home_y-30),('z1_1',self.home_z+30),
-                            ('x1_2',self.home_x),('y1_2',self.home_y-100),('z1_2',self.home_z+30),
-                            ('x2_1',self.home_x),('y2_1',self.home_y),('z2_1',self.home_z),
-                            ('x2_2',self.home_x),('y2_2',self.home_y),('z2_2',self.home_z),
-                            ('x3_1',self.home_x),('y3_1',self.home_y+30),('z3_1',self.home_z+30),
-                            ('x3_2',self.home_x),('y3_2',self.home_y+100),('z3_2',self.home_z+30)])
+        coordinates.update([('x1_1',self.home_x),('y1_1',self.home_y+30),('z1_1',self.home_z+30),
+                            ('x1_2',self.home_x),('y1_2',self.home_y+60),('z1_2',self.home_z+30),
+                            ('x2_1',self.home_x+30),('y2_1',self.home_y),('z2_1',self.home_z+30),
+                            ('x2_2',self.home_x+30),('y2_2',self.home_y),('z2_2',self.home_z+30),
+                            ('x3_1',self.home_x),('y3_1',self.home_y-30),('z3_1',self.home_z+30),
+                            ('x3_2',self.home_x),('y3_2',self.home_y-60),('z3_2',self.home_z+30)])
         
         self.circleloop(coordinates)
 
@@ -593,24 +593,15 @@ class Swarm(object):
             if num==0:
                 print(f'{str(num)}{str(ip)}')
                 print(f'{coordinates["x1"]},{coordinates["y1"]},{coordinates["z1"]}')
-                if(self.ENU==1):
-                    self.moveNED(coordinates["x1"],coordinates["y1"],coordinates["z1"],ip)
-                else:
-                    self.moveENU(coordinates["x1"],coordinates["y1"],coordinates["z1"],ip)
+                self.moveNED(coordinates["x1"],coordinates["y1"],coordinates["z1"],ip)
             elif num==1:
                 print(f'{str(num)}{str(ip)}')
                 print(f'{coordinates["x2"]},{coordinates["y2"]},{coordinates["z2"]}')
-                if(self.ENU==1):
-                    self.moveNED(coordinates["x2"],coordinates["y2"],coordinates["z2"],ip)
-                else:
-                    self.moveENU(coordinates["x2"],coordinates["y2"],coordinates["z2"],ip)
+                self.moveNED(coordinates["x2"],coordinates["y2"],coordinates["z2"],ip)
             elif num==2:
                 print(f'{str(num)}{str(ip)}')
                 print(f'{coordinates["x3"]},{coordinates["y3"]},{coordinates["z3"]}')
-                if(self.ENU==1):
-                    self.moveNED(coordinates["x3"],coordinates["y3"],coordinates["z3"],ip)
-                else:
-                    self.moveENU(coordinates["x3"],coordinates["y3"],coordinates["z3"],ip)
+                self.moveNED(coordinates["x3"],coordinates["y3"],coordinates["z3"],ip)
             num=num+1
     
     def circleloop(self,coordinates):
@@ -623,19 +614,19 @@ class Swarm(object):
             ip = self.sn2ip[sn]
             if num==0:
                 print(f'{str(num)}{str(ip)}')
-                print(f'{coordinates["x1"]},{coordinates["y1"]},{coordinates["z1"]}')
+                print(f'{coordinates["x1_1"]},{coordinates["y1_1"]},{coordinates["z1_1"]},{coordinates["x1_2"]},{coordinates["y1_2"]},{coordinates["z1_2"]}')
                 self.makeCircle(coordinates["x1_1"],coordinates["y1_1"],coordinates["z1_1"],
                                 coordinates["x1_2"],coordinates["y1_2"],coordinates["z1_2"],ip)
 
             elif num==1:
                 print(f'{str(num)}{str(ip)}')
-                print(f'{coordinates["x2_1"]},{coordinates["y2_1"]},{coordinates["z2_1"]}')
+                print(f'{coordinates["x2_1"]},{coordinates["y2_1"]},{coordinates["z2_1"]},{coordinates["x2_2"]},{coordinates["y2_2"]},{coordinates["z2_2"]}')
                 self.makeCircle(coordinates["x2_1"],coordinates["y2_1"],coordinates["z2_1"],
                                 coordinates["x2_2"],coordinates["y2_2"],coordinates["z2_2"],ip)
                 
             elif num==2:
                 print(f'{str(num)}{str(ip)}')
-                print(f'{coordinates["x3"]},{coordinates["y3"]},{coordinates["z3"]}')
+                print(f'{coordinates["x3_1"]},{coordinates["y3_1"]},{coordinates["z3_1"]},{coordinates["x3_2"]},{coordinates["y3_2"]},{coordinates["z3_2"]}')
                 self.makeCircle(coordinates["x3_1"],coordinates["y3_1"],coordinates["z3_1"],
                                 coordinates["x3_2"],coordinates["y3_2"],coordinates["z3_2"],ip)
             num=num+1
@@ -650,10 +641,10 @@ class Swarm(object):
         z2_2=z1*-1
 
         self.manager.send_command("curve "+ str(x) + " " +str(y) + " " +str(z)
-                                  +" "+ str(x1)+ " " +str(y1) + " "+str(z1),ip)
+                                  +" "+ str(x1)+ " " +str(y1) + " "+str(z1)+" "+str(30),ip)
         
         self.manager.send_command("curve "+ str(x2_1) + " " +str(y2_1) + " " +str(z2_1)
-                                  +" "+ str(x2_2)+ " " +str(y2_2) + " "+str(z2_2),ip)
+                                  +" "+ str(x2_2)+ " " +str(y2_2) + " "+str(z2_2)+" "+str(30),ip)
 
     def moveENU(self,x,y,z,ip):
         x2=x*-1

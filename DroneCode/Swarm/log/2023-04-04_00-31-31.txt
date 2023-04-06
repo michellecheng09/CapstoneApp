@@ -1,0 +1,23 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2023-04-04 00:30:46.903378, end_time=2023-04-04 00:30:46.939048, duration=0.03567
+id=1, command=takeoff, response=ok, start_time=2023-04-04 00:30:52.588522, end_time=2023-04-04 00:30:56.374210, duration=3.785688
+id=2, command=forward 1, response=out of range, start_time=2023-04-04 00:30:56.699007, end_time=2023-04-04 00:30:56.790841, duration=0.091834
+id=3, command=back 1, response=out of range, start_time=2023-04-04 00:31:03.161303, end_time=2023-04-04 00:31:24.225216, duration=21.063913
+id=4, command=forward 1, response=error, start_time=2023-04-04 00:31:24.254783, end_time=2023-04-04 00:31:31.310103, duration=7.05532
+id=5, command=land, response=None, start_time=2023-04-04 00:31:31.340957, end_time=None, duration=None
+------
+Drone: 2
+id=0, command=command, response=ok, start_time=2023-04-04 00:30:46.904347, end_time=2023-04-04 00:30:46.942950, duration=0.038603
+id=1, command=takeoff, response=None, start_time=2023-04-04 00:30:52.433207, end_time=None, duration=None
+id=2, command=back 30, response=error Not joystick, start_time=2023-04-04 00:30:55.275744, end_time=2023-04-04 00:30:55.708077, duration=0.432333
+id=3, command=right 30, response=error Not joystick, start_time=2023-04-04 00:30:55.924353, end_time=2023-04-04 00:30:56.499431, duration=0.575078
+id=4, command=up 30, response=ok, start_time=2023-04-04 00:31:00.781456, end_time=2023-04-04 00:31:02.992128, duration=2.210672
+id=5, command=left 30, response=error No valid imu, start_time=2023-04-04 00:31:23.869361, end_time=2023-04-04 00:31:24.056361, duration=0.187
+------
+Drone: 3
+id=0, command=command, response=ok, start_time=2023-04-04 00:30:46.903378, end_time=2023-04-04 00:30:46.955738, duration=0.05236
+id=1, command=takeoff, response=ok, start_time=2023-04-04 00:30:52.730121, end_time=2023-04-04 00:30:56.140423, duration=3.410302
+id=2, command=forward 30, response=ok, start_time=2023-04-04 00:30:57.023474, end_time=2023-04-04 00:30:58.513022, duration=1.489548
+id=3, command=left 30, response=ok, start_time=2023-04-04 00:30:58.666679, end_time=2023-04-04 00:31:00.124672, duration=1.457993
+id=4, command=down 30, response=error Motor stop, start_time=2023-04-04 00:31:23.620293, end_time=2023-04-04 00:31:23.682481, duration=0.062188

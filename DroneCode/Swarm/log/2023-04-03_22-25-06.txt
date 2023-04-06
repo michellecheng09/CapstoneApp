@@ -1,0 +1,26 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2023-04-03 22:24:26.885137, end_time=2023-04-03 22:24:26.919004, duration=0.033867
+id=1, command=takeoff, response=ok, start_time=2023-04-03 22:24:32.468613, end_time=2023-04-03 22:24:38.183481, duration=5.714868
+id=2, command=up 30, response=ok, start_time=2023-04-03 22:24:41.939873, end_time=2023-04-03 22:24:43.856650, duration=1.916777
+id=3, command=down 60, response=ok, start_time=2023-04-03 22:24:50.726603, end_time=2023-04-03 22:24:53.080772, duration=2.354169
+id=4, command=up 30, response=ok, start_time=2023-04-03 22:24:57.891661, end_time=2023-04-03 22:24:59.807960, duration=1.916299
+id=5, command=land, response=ok, start_time=2023-04-03 22:25:02.164382, end_time=2023-04-03 22:25:04.706992, duration=2.54261
+------
+Drone: 2
+id=0, command=command, response=ok, start_time=2023-04-03 22:24:26.885137, end_time=2023-04-03 22:24:26.919004, duration=0.033867
+id=1, command=takeoff, response=None, start_time=2023-04-03 22:24:32.514329, end_time=None, duration=None
+id=2, command=up 30, response=error Not joystick, start_time=2023-04-03 22:24:38.648088, end_time=2023-04-03 22:24:39.195597, duration=0.547509
+id=3, command=down 60, response=ok, start_time=2023-04-03 22:24:44.652016, end_time=2023-04-03 22:24:47.851648, duration=3.199632
+id=4, command=up 30, response=ok, start_time=2023-04-03 22:24:53.312762, end_time=2023-04-03 22:24:55.301934, duration=1.989172
+id=5, command=land, response=ok, start_time=2023-04-03 22:25:02.179738, end_time=2023-04-03 22:25:05.461709, duration=3.281971
+------
+Drone: 3
+id=0, command=command, response=ok, start_time=2023-04-03 22:24:26.885137, end_time=2023-04-03 22:24:26.929484, duration=0.044347
+id=1, command=takeoff, response=None, start_time=2023-04-03 22:24:32.336640, end_time=None, duration=None
+id=2, command=up 70, response=error Not joystick, start_time=2023-04-03 22:24:34.868838, end_time=2023-04-03 22:24:35.370806, duration=0.501968
+id=3, command=down 70, response=error Not joystick, start_time=2023-04-03 22:24:36.025762, end_time=2023-04-03 22:24:36.431142, duration=0.40538
+id=4, command=down 30, response=ok, start_time=2023-04-03 22:24:39.506127, end_time=2023-04-03 22:24:41.659474, duration=2.153347
+id=5, command=up 60, response=ok, start_time=2023-04-03 22:24:48.238664, end_time=2023-04-03 22:24:50.491858, duration=2.253194
+id=6, command=down 30, response=ok, start_time=2023-04-03 22:24:55.518545, end_time=2023-04-03 22:24:57.771125, duration=2.25258
+id=7, command=land, response=ok, start_time=2023-04-03 22:25:02.056515, end_time=2023-04-03 22:25:06.073724, duration=4.017209

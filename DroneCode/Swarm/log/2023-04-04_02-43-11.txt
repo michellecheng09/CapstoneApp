@@ -1,0 +1,21 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2023-04-04 02:42:30.527346, end_time=2023-04-04 02:42:30.805135, duration=0.277789
+id=1, command=takeoff, response=ok, start_time=2023-04-04 02:42:36.223910, end_time=2023-04-04 02:42:44.778585, duration=8.554675
+id=2, command=curve 0 -50 30 0 -50 30 30, response=error Three points are collinear!, start_time=2023-04-04 02:42:44.949460, end_time=2023-04-04 02:42:45.105394, duration=0.155934
+id=3, command=curve 0 50 -30 0 50 -30 30, response=error, start_time=2023-04-04 02:42:45.260836, end_time=2023-04-04 02:43:10.478320, duration=25.217484
+id=4, command=land, response=ok, start_time=2023-04-04 02:43:10.509312, end_time=2023-04-04 02:43:10.961355, duration=0.452043
+------
+Drone: 2
+id=0, command=command, response=ok, start_time=2023-04-04 02:42:30.527346, end_time=2023-04-04 02:42:30.805135, duration=0.277789
+id=1, command=takeoff, response=error Three points are collinear!, start_time=2023-04-04 02:42:36.097614, end_time=2023-04-04 02:42:42.250586, duration=6.152972
+id=2, command=curve 30 0 30 30 0 30 30, response=ok, start_time=2023-04-04 02:42:42.281414, end_time=2023-04-04 02:42:44.560784, duration=2.27937
+id=3, command=curve -30 0 -30 -30 0 -30 30, response=error Three points are collinear!, start_time=2023-04-04 02:42:44.747087, end_time=2023-04-04 02:42:44.762619, duration=0.015532
+id=4, command=land, response=ok, start_time=2023-04-04 02:43:10.419545, end_time=2023-04-04 02:43:11.038863, duration=0.619318
+------
+Drone: 3
+id=0, command=command, response=ok, start_time=2023-04-04 02:42:30.528112, end_time=2023-04-04 02:42:30.805135, duration=0.277023
+id=1, command=takeoff, response=error Three points are collinear!, start_time=2023-04-04 02:42:35.972164, end_time=2023-04-04 02:42:40.753825, duration=4.781661
+id=2, command=curve 0 50 30 0 50 30 30, response=ok, start_time=2023-04-04 02:42:40.784813, end_time=2023-04-04 02:42:41.955257, duration=1.170444
+id=3, command=curve 0 -50 -30 0 -50 -30 30, response=error Three points are collinear!, start_time=2023-04-04 02:42:42.047939, end_time=2023-04-04 02:42:42.063273, duration=0.015334
+id=4, command=land, response=ok, start_time=2023-04-04 02:43:10.524659, end_time=2023-04-04 02:43:11.007720, duration=0.483061

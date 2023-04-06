@@ -1,0 +1,21 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2023-04-04 00:53:57.798986, end_time=2023-04-04 00:53:57.810812, duration=0.011826
+id=1, command=takeoff, response=ok, start_time=2023-04-04 00:54:03.580937, end_time=2023-04-04 00:54:08.317177, duration=4.73624
+id=2, command=curve 30 0 30 100 0 30 30, response=ok, start_time=2023-04-04 00:54:09.760805, end_time=2023-04-04 00:54:13.521206, duration=3.760401
+id=3, command=curve -30 0 -30 -100 0 -30 30, response=ok, start_time=2023-04-04 00:54:13.896431, end_time=2023-04-04 00:54:18.234635, duration=4.338204
+id=4, command=land, response=error, start_time=2023-04-04 00:54:44.073704, end_time=2023-04-04 00:54:44.470140, duration=0.396436
+------
+Drone: 2
+id=0, command=command, response=ok, start_time=2023-04-04 00:53:57.800021, end_time=2023-04-04 00:53:57.844481, duration=0.04446
+id=1, command=takeoff, response=None, start_time=2023-04-04 00:54:03.487097, end_time=None, duration=None
+id=2, command=curve 0 30 30 0 60 30 30, response=error Radius is too large!, start_time=2023-04-04 00:54:09.066055, end_time=2023-04-04 00:54:09.096505, duration=0.03045
+id=3, command=curve 0 -30 -30 0 -60 -30 30, response=error Radius is too large!, start_time=2023-04-04 00:54:09.220212, end_time=2023-04-04 00:54:09.328228, duration=0.108016
+id=4, command=land, response=ok, start_time=2023-04-04 00:54:44.252949, end_time=2023-04-04 00:54:44.610127, duration=0.357178
+------
+Drone: 3
+id=0, command=command, response=ok, start_time=2023-04-04 00:53:57.798986, end_time=2023-04-04 00:53:57.846864, duration=0.047878
+id=1, command=takeoff, response=ok, start_time=2023-04-04 00:54:03.752003, end_time=2023-04-04 00:54:10.914877, duration=7.162874
+id=2, command=curve 0 -30 30 0 -60 30 30, response=None, start_time=2023-04-04 00:54:18.498354, end_time=None, duration=None
+id=3, command=curve 0 30 -30 0 60 -30 30, response=error Motor stop, start_time=2023-04-04 00:54:38.602628, end_time=2023-04-04 00:54:38.649169, duration=0.046541
+id=4, command=land, response=ok, start_time=2023-04-04 00:54:44.191194, end_time=2023-04-04 00:54:44.610127, duration=0.418933

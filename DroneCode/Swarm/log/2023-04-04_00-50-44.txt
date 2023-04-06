@@ -1,0 +1,21 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2023-04-04 00:50:16.389122, end_time=2023-04-04 00:50:16.628590, duration=0.239468
+id=1, command=takeoff, response=None, start_time=2023-04-04 00:50:22.210076, end_time=None, duration=None
+id=2, command=curve 0 -30 30 0 -100 30 30, response=ok, start_time=2023-04-04 00:50:30.449826, end_time=2023-04-04 00:50:30.840015, duration=0.390189
+id=3, command=curve 0 30 -30 0 100 -30 30, response=ok, start_time=2023-04-04 00:50:30.886761, end_time=2023-04-04 00:50:34.249107, duration=3.362346
+id=4, command=land, response=ok, start_time=2023-04-04 00:50:39.657719, end_time=2023-04-04 00:50:43.939377, duration=4.281658
+------
+Drone: 2
+id=0, command=command, response=ok, start_time=2023-04-04 00:50:16.389122, end_time=2023-04-04 00:50:16.628590, duration=0.239468
+id=1, command=takeoff, response=None, start_time=2023-04-04 00:50:21.960486, end_time=None, duration=None
+id=2, command=curve 0 30 30 0 100 30 30, response=error Not joystick, start_time=2023-04-04 00:50:27.505184, end_time=2023-04-04 00:50:28.035391, duration=0.530207
+id=3, command=curve 0 -30 -30 0 -100 -30 30, response=error Not joystick, start_time=2023-04-04 00:50:28.270495, end_time=2023-04-04 00:50:28.754501, duration=0.484006
+id=4, command=land, response=ok, start_time=2023-04-04 00:50:39.524430, end_time=2023-04-04 00:50:43.129034, duration=3.604604
+------
+Drone: 3
+id=0, command=command, response=ok, start_time=2023-04-04 00:50:16.389122, end_time=2023-04-04 00:50:16.628590, duration=0.239468
+id=1, command=takeoff, response=None, start_time=2023-04-04 00:50:22.054543, end_time=None, duration=None
+id=2, command=curve 30 0 30 100 0 30 30, response=error Not joystick, start_time=2023-04-04 00:50:29.063915, end_time=2023-04-04 00:50:29.560213, duration=0.496298
+id=3, command=curve -30 0 -30 -100 0 -30 30, response=error Not joystick, start_time=2023-04-04 00:50:29.637154, end_time=2023-04-04 00:50:30.154042, duration=0.516888
+id=4, command=land, response=ok, start_time=2023-04-04 00:50:39.735822, end_time=2023-04-04 00:50:42.050952, duration=2.31513

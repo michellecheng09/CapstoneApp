@@ -5,9 +5,20 @@ scan 3
 1>takeoff
 2>takeoff
 3>takeoff
+delay 2
+triangle
+delay 2
+wave
 delay 3
-circle
-delay 3
+1>curve 0 30 30 0 100 30 20
+1>curve 0 -30 -30 0 -100 -30 20
+2>curve 30 0 30 100 0 30 20
+2>curve -30 0 -30 -100 0 -30 20
+3>curve 0 -30 30 0 -100 30 20
+3>curve 0 30 -30 0 100 -30 20
+delay 2
+vertical
+delay 5
 1>land
 2>land
 3>land

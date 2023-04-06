@@ -1,0 +1,21 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2023-04-03 22:07:13.175909, end_time=2023-04-03 22:07:13.195199, duration=0.01929
+id=1, command=takeoff, response=ok, start_time=2023-04-03 22:07:19.007699, end_time=2023-04-03 22:07:23.460345, duration=4.452646
+id=2, command=curve 0 -30 30 0 -100 30 30, response=ok, start_time=2023-04-03 22:07:33.877701, end_time=2023-04-03 22:07:37.594887, duration=3.717186
+id=3, command=curve 0 30 -30 0 100 -30 30, response=ok, start_time=2023-04-03 22:07:37.674242, end_time=2023-04-03 22:07:42.022063, duration=4.347821
+id=4, command=land, response=ok, start_time=2023-04-03 22:07:47.514027, end_time=2023-04-03 22:07:49.965986, duration=2.451959
+------
+Drone: 2
+id=0, command=command, response=ok, start_time=2023-04-03 22:07:13.175909, end_time=2023-04-03 22:07:13.198794, duration=0.022885
+id=1, command=takeoff, response=None, start_time=2023-04-03 22:07:18.760907, end_time=None, duration=None
+id=2, command=curve 0 30 30 0 100 30 30, response=error Not joystick, start_time=2023-04-03 22:07:24.240793, end_time=2023-04-03 22:07:24.755063, duration=0.51427
+id=3, command=curve 0 -30 -30 0 -100 -30 30, response=error Not joystick, start_time=2023-04-03 22:07:24.941948, end_time=2023-04-03 22:07:25.409057, duration=0.467109
+id=4, command=land, response=ok, start_time=2023-04-03 22:07:47.329739, end_time=2023-04-03 22:07:47.870718, duration=0.540979
+------
+Drone: 3
+id=0, command=command, response=ok, start_time=2023-04-03 22:07:13.175909, end_time=2023-04-03 22:07:13.198794, duration=0.022885
+id=1, command=takeoff, response=ok, start_time=2023-04-03 22:07:18.837419, end_time=2023-04-03 22:07:25.175885, duration=6.338466
+id=2, command=curve 30 0 30 100 0 30 30, response=ok, start_time=2023-04-03 22:07:25.638772, end_time=2023-04-03 22:07:29.917149, duration=4.278377
+id=3, command=curve -30 0 -30 -100 0 -30 30, response=ok, start_time=2023-04-03 22:07:30.116629, end_time=2023-04-03 22:07:33.738623, duration=3.621994
+id=4, command=land, response=ok, start_time=2023-04-03 22:07:47.360353, end_time=2023-04-03 22:07:51.141858, duration=3.781505

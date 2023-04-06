@@ -1,0 +1,22 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2023-04-04 02:55:06.275026, end_time=2023-04-04 02:55:06.305393, duration=0.030367
+id=1, command=takeoff, response=ok, start_time=2023-04-04 02:55:12.002861, end_time=2023-04-04 02:55:17.326697, duration=5.323836
+id=2, command=curve 30 0 30 100 0 30 20, response=ok, start_time=2023-04-04 02:55:17.374272, end_time=2023-04-04 02:55:22.175532, duration=4.80126
+id=3, command=curve -30 0 -30 -100 0 -30 20, response=ok, start_time=2023-04-04 02:55:22.251480, end_time=2023-04-04 02:55:29.559696, duration=7.308216
+id=4, command=land, response=ok, start_time=2023-04-04 02:55:29.636745, end_time=2023-04-04 02:55:33.899574, duration=4.262829
+id=5, command=land, response=ok, start_time=2023-04-04 02:55:34.318723, end_time=2023-04-04 02:55:34.756809, duration=0.438086
+------
+Drone: 2
+id=0, command=command, response=ok, start_time=2023-04-04 02:55:06.275026, end_time=2023-04-04 02:55:06.316795, duration=0.041769
+id=1, command=takeoff, response=ok, start_time=2023-04-04 02:55:11.878983, end_time=2023-04-04 02:55:18.160831, duration=6.281848
+id=2, command=curve 0 -30 30 0 -100 30 20, response=ok, start_time=2023-04-04 02:55:18.284756, end_time=2023-04-04 02:55:24.790695, duration=6.505939
+id=3, command=curve 0 30 -30 0 100 -30 20, response=ok, start_time=2023-04-04 02:55:24.851535, end_time=2023-04-04 02:55:31.058551, duration=6.207016
+id=4, command=land, response=None, start_time=2023-04-04 02:55:31.105143, end_time=None, duration=None
+------
+Drone: 3
+id=0, command=command, response=ok, start_time=2023-04-04 02:55:06.275026, end_time=2023-04-04 02:55:06.327937, duration=0.052911
+id=1, command=takeoff, response=ok, start_time=2023-04-04 02:55:11.809648, end_time=2023-04-04 02:55:20.505600, duration=8.695952
+id=2, command=curve 0 30 30 0 100 30 20, response=ok, start_time=2023-04-04 02:55:20.613733, end_time=2023-04-04 02:55:24.991602, duration=4.377869
+id=3, command=curve 0 -30 -30 0 -100 -30 20, response=ok, start_time=2023-04-04 02:55:25.082791, end_time=2023-04-04 02:55:33.305807, duration=8.223016
+id=4, command=land, response=None, start_time=2023-04-04 02:55:33.461738, end_time=None, duration=None
