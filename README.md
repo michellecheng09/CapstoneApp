@@ -29,7 +29,9 @@ self.sn2ip = {
 ```
 ## Devleopment Tools  
 Hardware: Tello EDU, TP Link Wireless Router 
+
 Sawarm Programming: Python, PacketSender
+
 Application: React Native, Expo, SubnetInfo, Fetch API, Firebase 
 
 ## Contributers and Remarks
