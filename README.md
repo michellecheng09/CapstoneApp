@@ -38,6 +38,7 @@ Application: React Native, Expo, SubnetInfo, Fetch API, Firebase
 This is in fulfillment for the final year Capstone Project in the Faculty of Engineering and Applied Science at Ontario Tech University.
 
 Authors include Michelle Cheng, Rodaba Ebadi, Toluwanimi Elebute, Munazza Fahmeen and Nivetha Gnaneswaran.
+
 Special remarks to our advisor Dr.Lixuan Lu, P.Eng and capstone coordinator Dr. V.K.Sood, P.Eng.
 
 
